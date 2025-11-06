@@ -1,0 +1,155 @@
+处理时间: 2025-07-15 09:41:36
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_5_303      | SubGrammar: 5  | 测试编号: 303  | Cross Count: 14135
+  密码: ['sabbath', '!', 'dragoon', 'philipp', 'family', 'dragoon']
+
+排名 2 : test_5_882      | SubGrammar: 5  | 测试编号: 882  | Cross Count: 14077
+  密码: ['!', 'sabbath', 'family', '_', '-', 'philipp']
+
+排名 3 : test_5_72       | SubGrammar: 5  | 测试编号: 72   | Cross Count: 13993
+  密码: ['philipp', '!', 'sabbath', 'FAMILY', 'SABBATH', 'family']
+
+排名 4 : test_5_770      | SubGrammar: 5  | 测试编号: 770  | Cross Count: 13985
+  密码: ['family', '!', 'fam1ly', 'family', 'philipp', 'sabbath']
+
+排名 5 : test_5_158      | SubGrammar: 5  | 测试编号: 158  | Cross Count: 13969
+  密码: ['!', 'philipp', 'sabbath', 'sabbath', 'philipp', 'family']
+
+排名 6 : test_5_259      | SubGrammar: 5  | 测试编号: 259  | Cross Count: 13969
+  密码: ['!', 'family', 'philipp', 'family', 'family', 'sabbath']
+
+排名 7 : test_5_408      | SubGrammar: 5  | 测试编号: 408  | Cross Count: 13969
+  密码: ['family', 'family', '!', 'philipp', 'family', 'sabbath']
+
+排名 8 : test_5_418      | SubGrammar: 5  | 测试编号: 418  | Cross Count: 13969
+  密码: ['family', 'philipp', 'family', 'philipp', 'sabbath', '!']
+
+排名 9 : test_5_559      | SubGrammar: 5  | 测试编号: 559  | Cross Count: 13969
+  密码: ['family', 'family', '!', 'philipp', 'philipp', 'sabbath']
+
+排名 10: test_5_830      | SubGrammar: 5  | 测试编号: 830  | Cross Count: 13969
+  密码: ['!', 'sabbath', 'philipp', 'family', 'family', 'sabbath']
+
+排名 11: test_5_869      | SubGrammar: 5  | 测试编号: 869  | Cross Count: 13969
+  密码: ['family', '!', 'sabbath', 'family', 'philipp', 'philipp']
+
+排名 12: test_5_679      | SubGrammar: 5  | 测试编号: 679  | Cross Count: 13843
+  密码: ['sabbath', '.', 'philipp', 'family', 'dragoon', 'PHILIPP']
+
+排名 13: test_5_710      | SubGrammar: 5  | 测试编号: 710  | Cross Count: 13804
+  密码: ['philipp', 'dragoon', ' ', 'dragoon', 'family', 'sabbath']
+
+排名 14: test_5_1007     | SubGrammar: 5  | 测试编号: 1007 | Cross Count: 13705
+  密码: ['cocacolad', 'family', 'philipp', '.', 'sabbath', 'philipp']
+
+排名 15: test_5_578      | SubGrammar: 5  | 测试编号: 578  | Cross Count: 13668
+  密码: ['family', 'family', 'cocacolad', 'philipp', 'sabbath', 'dragoon']
+
+排名 16: test_5_57       | SubGrammar: 5  | 测试编号: 57   | Cross Count: 13659
+  密码: ['family', '.', 'philipp', 'family', 'fam1Ly', 'sabbath']
+
+排名 17: test_5_853      | SubGrammar: 5  | 测试编号: 853  | Cross Count: 13659
+  密码: ['family', 'philipp', 'sabbath', 'philipp', 'family', '.']
+
+排名 18: test_5_883      | SubGrammar: 5  | 测试编号: 883  | Cross Count: 13659
+  密码: ['sabbath', 'family', '.', 'philipp', 'philipp', 'philipp']
+
+排名 19: test_5_333      | SubGrammar: 5  | 测试编号: 333  | Cross Count: 13641
+  密码: ['dragoon', 'cocacolamy', 'philipp', 'family', 'sabbath', 'family']
+
+排名 20: test_5_385      | SubGrammar: 5  | 测试编号: 385  | Cross Count: 13636
+  密码: ['philipp', 'sabbath', ' ', 'family', 'SABBATH', 'family']
+
+排名 21: test_5_929      | SubGrammar: 5  | 测试编号: 929  | Cross Count: 13630
+  密码: ['family', 'sabbath', 'sabbath', 'stephanime', 'dragoon', 'philipp']
+
+排名 22: test_5_1002     | SubGrammar: 5  | 测试编号: 1002 | Cross Count: 13628
+  密码: ['philipp', 'sabbath', 'family', 'dragoon', 'cocacolaa', 'philipp']
+
+排名 23: test_5_239      | SubGrammar: 5  | 测试编号: 239  | Cross Count: 13626
+  密码: ['family', 'dragoon', 'cocacolaz', 'sabbath', 'philipp', 'stephanimy']
+
+排名 24: test_5_508      | SubGrammar: 5  | 测试编号: 508  | Cross Count: 13626
+  密码: ['philipp', 'family', 'family', 'sabbath', 'fam1ly', 'dragoon']
+
+排名 25: test_5_820      | SubGrammar: 5  | 测试编号: 820  | Cross Count: 13626
+  密码: ['philipp', 'dragoon', 'sabbath', 'fam1ly', 'sabbath', 'family']
+
+排名 26: test_5_472      | SubGrammar: 5  | 测试编号: 472  | Cross Count: 13625
+  密码: ['family', 'family', 'FAMILY', 'philipp', 'sabbath', 'dragoon']
+
+排名 27: test_5_494      | SubGrammar: 5  | 测试编号: 494  | Cross Count: 13625
+  密码: ['family', 'family', 'FAMILY', 'dragoon', 'philipp', 'sabbath']
+
+排名 28: test_5_530      | SubGrammar: 5  | 测试编号: 530  | Cross Count: 13625
+  密码: ['FAMILY', 'sabbath', 'family', 'dragoon', 'family', 'philipp']
+
+排名 29: test_5_640      | SubGrammar: 5  | 测试编号: 640  | Cross Count: 13625
+  密码: ['FAMILY', 'family', 'philipp', 'dragoon', 'philipp', 'sabbath']
+
+排名 30: test_5_650      | SubGrammar: 5  | 测试编号: 650  | Cross Count: 13625
+  密码: ['FAMILY', 'family', 'dragoon', 'family', 'philipp', 'sabbath']
+
+排名 31: test_5_744      | SubGrammar: 5  | 测试编号: 744  | Cross Count: 13625
+  密码: ['family', 'philipp', 'FAMILY', 'family', 'dragoon', 'sabbath']
+
+排名 32: test_5_812      | SubGrammar: 5  | 测试编号: 812  | Cross Count: 13624
+  密码: ['family', 'family', ' ', 'family', 'philipp', 'sabbath']
+
+排名 33: test_5_840      | SubGrammar: 5  | 测试编号: 840  | Cross Count: 13624
+  密码: ['sabbath', 'family', ' ', 'family', 'philipp', 'cocacolade']
+
+排名 34: test_5_237      | SubGrammar: 5  | 测试编号: 237  | Cross Count: 13623
+  密码: ['philipp', 'sabbath', 'dragoon', 'Sabbath', 'dragoon', 'family']
+
+排名 35: test_5_512      | SubGrammar: 5  | 测试编号: 512  | Cross Count: 13623
+  密码: ['sabbath', 'PHILIPP', 'dragoon', 'philipp', 'family', 'family']
+
+排名 36: test_5_230      | SubGrammar: 5  | 测试编号: 230  | Cross Count: 13621
+  密码: ['sabbath', 'family', 'dragoon', 'Family', 'philipp', 'philipp']
+
+排名 37: test_5_364      | SubGrammar: 5  | 测试编号: 364  | Cross Count: 13621
+  密码: ['philipp', 'dragoon', 'family', 'philipp', 'sabbath', 'Family']
+
+排名 38: test_5_523      | SubGrammar: 5  | 测试编号: 523  | Cross Count: 13621
+  密码: ['philipp', 'family', 'Family', 'family', 'sabbath', 'dragoon']
+
+排名 39: test_5_833      | SubGrammar: 5  | 测试编号: 833  | Cross Count: 13621
+  密码: ['family', 'family', 'sabbath', 'dragoon', 'Family', 'philipp']
+
+排名 40: test_5_66       | SubGrammar: 5  | 测试编号: 66   | Cross Count: 13619
+  密码: ['philipp', 'family', 'sabbath', 'Philipp', 'family', 'dragoon']
+
+排名 41: test_5_443      | SubGrammar: 5  | 测试编号: 443  | Cross Count: 13619
+  密码: ['dragoon', 'ph1l1pp', 'philipp', 'family', 'sabbath', 'family']
+
+排名 42: test_5_696      | SubGrammar: 5  | 测试编号: 696  | Cross Count: 13619
+  密码: ['dragoon', 'family', 'ph1l1pp', 'family', 'sabbath', 'philipp']
+
+排名 43: test_5_786      | SubGrammar: 5  | 测试编号: 786  | Cross Count: 13619
+  密码: ['Philipp', 'sabbath', 'family', 'philipp', 'dragoon', 'family']
+
+排名 44: test_5_505      | SubGrammar: 5  | 测试编号: 505  | Cross Count: 13618
+  密码: ['sabbath', 'dragoon', 'stephanid', 'family', 'philipp', 'family']
+
+排名 45: test_5_17       | SubGrammar: 5  | 测试编号: 17   | Cross Count: 13616
+  密码: ['dragoon', 'sabbath', 'family', 'dragoon', 'philipp', 'family']
+
+排名 46: test_5_46       | SubGrammar: 5  | 测试编号: 46   | Cross Count: 13616
+  密码: ['family', 'philipp', 'sabbath', 'family', 'family', 'dragoon']
+
+排名 47: test_5_63       | SubGrammar: 5  | 测试编号: 63   | Cross Count: 13616
+  密码: ['dragoon', 'family', 'philipp', 'sabbath', 'sabbath', 'family']
+
+排名 48: test_5_64       | SubGrammar: 5  | 测试编号: 64   | Cross Count: 13616
+  密码: ['dragoon', 'family', 'philipp', 'sabbath', 'family', 'family']
+
+排名 49: test_5_85       | SubGrammar: 5  | 测试编号: 85   | Cross Count: 13616
+  密码: ['family', 'dragoon', 'dragoon', 'sabbath', 'philipp', 'philipp']
+
+排名 50: test_5_96       | SubGrammar: 5  | 测试编号: 96   | Cross Count: 13616
+  密码: ['sabbath', 'sabbath', 'family', 'family', 'philipp', 'dragoon']
+

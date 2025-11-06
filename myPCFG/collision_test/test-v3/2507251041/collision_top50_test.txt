@@ -1,0 +1,155 @@
+处理时间: 2025-07-25 10:43:48
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_13_829     | SubGrammar: 13 | 测试编号: 829  | Cross Count: 8621
+  密码: ['plates', 'PHILIPP', 'SUCKIT', 'philipp', 'raven12', 'cocacolad']
+
+排名 2 : test_13_204     | SubGrammar: 13 | 测试编号: 204  | Cross Count: 8598
+  密码: ['plates', 'MATT95695', 'PHILIPP', 'raven12', 'cocacolad', 'philipp']
+
+排名 3 : test_13_236     | SubGrammar: 13 | 测试编号: 236  | Cross Count: 8598
+  密码: ['MATT88688', 'raven12', 'philipp', 'plates', 'cocacolad', 'PHILIPP']
+
+排名 4 : test_12_789     | SubGrammar: 12 | 测试编号: 789  | Cross Count: 8585
+  密码: ['PHILIPP', 'raven12', 'philipp', 'philipp', 'suckit', 'carlos25']
+
+排名 5 : test_13_789     | SubGrammar: 13 | 测试编号: 789  | Cross Count: 8572
+  密码: ['COCACOLAME', 'raven12', 'plates', 'philipp', 'cocacolad', 'PHILIPP']
+
+排名 6 : test_13_399     | SubGrammar: 13 | 测试编号: 399  | Cross Count: 8542
+  密码: ['COCACOLAD', 'PHILIPP', 'philipp', 'MATT95695', 'raven12', 'plates']
+
+排名 7 : test_13_865     | SubGrammar: 13 | 测试编号: 865  | Cross Count: 8508
+  密码: ['RAVEN12', 'raven12', 'philipp', 'PHILIPP', 'COCACOLAI', 'plates']
+
+排名 8 : test_13_197     | SubGrammar: 13 | 测试编号: 197  | Cross Count: 8473
+  密码: ['matt95195', 'philipp', 'plates', 'raven12', 'PHILIPP', 'SUCKIT']
+
+排名 9 : test_3_560      | SubGrammar: 3  | 测试编号: 560  | Cross Count: 8450
+  密码: ['goodluck1', 'PHILIPP', 'COCACOLAD', 'carlos25', 'philipp', 'cocacolame']
+
+排名 10: test_13_513     | SubGrammar: 13 | 测试编号: 513  | Cross Count: 8445
+  密码: ['philipp', 'PHILIPP', 'plates', 'raven12', 'MATT88688', 'matt95695']
+
+排名 11: test_13_48      | SubGrammar: 13 | 测试编号: 48   | Cross Count: 8443
+  密码: ['PHILIPP', 'philipp', 'philipp', 'plates', 'raven12', 'cocacolad']
+
+排名 12: test_13_324     | SubGrammar: 13 | 测试编号: 324  | Cross Count: 8434
+  密码: ['raven12', 'PHILIPP', 'philipp', 'cocacolad', 'PLATES', 'RAVEN12']
+
+排名 13: test_13_724     | SubGrammar: 13 | 测试编号: 724  | Cross Count: 8428
+  密码: ['matt88688', 'philipp', 'cocacolame', 'raven12', 'plates', 'PHILIPP']
+
+排名 14: test_13_826     | SubGrammar: 13 | 测试编号: 826  | Cross Count: 8399
+  密码: ['COCACOLAD', 'raven12', 'cocacolad', 'philipp', 'RAVEN12', 'PHILIPP']
+
+排名 15: test_13_768     | SubGrammar: 13 | 测试编号: 768  | Cross Count: 8371
+  密码: ['RAVEN12', 'PLATES', 'raven12', 'philipp', 'PHILIPP', 'COCACOLAD']
+
+排名 16: test_3_761      | SubGrammar: 3  | 测试编号: 761  | Cross Count: 8352
+  密码: ['sava10', 'SAVA10', 'carlos25', 'goodluck1', 'PHILIPP', 'philipp']
+
+排名 17: test_13_334     | SubGrammar: 13 | 测试编号: 334  | Cross Count: 8348
+  密码: ['RAVEN12', 'philipp', 'plates', 'COCACOLAD', 'PHILIPP', 'matt95295']
+
+排名 18: test_12_719     | SubGrammar: 12 | 测试编号: 719  | Cross Count: 8348
+  密码: ['philipp', 'raven25', 'PHILIPP', 'carlos25', 'PHILIPP', 'raven12']
+
+排名 19: test_13_37      | SubGrammar: 13 | 测试编号: 37   | Cross Count: 8329
+  密码: ['raven12', 'philipp', 'RAVEN12', 'PLATES', 'matt95195', 'PHILIPP']
+
+排名 20: test_13_245     | SubGrammar: 13 | 测试编号: 245  | Cross Count: 8305
+  密码: ['matt95695', 'philipp', 'raven12', 'COCACOLAD', 'PHILIPP', 'cocacolad']
+
+排名 21: test_13_155     | SubGrammar: 13 | 测试编号: 155  | Cross Count: 8303
+  密码: ['plates', 'philipp', 'raven12', 'matt88688', 'PHILIPP', 'raven12']
+
+排名 22: test_13_756     | SubGrammar: 13 | 测试编号: 756  | Cross Count: 8299
+  密码: ['PLATES', 'plates', 'philipp', 'PHILIPP', 'COCACOLAD', 'RAVEN12']
+
+排名 23: test_13_288     | SubGrammar: 13 | 测试编号: 288  | Cross Count: 8295
+  密码: ['cocacolad', 'PHILIPP', 'raven12', 'philipp', 'COCACOLAD', 'matt95195']
+
+排名 24: test_13_520     | SubGrammar: 13 | 测试编号: 520  | Cross Count: 8295
+  密码: ['PHILIPP', 'cocacolad', 'COCACOLAD', 'matt95195', 'philipp', 'raven12']
+
+排名 25: test_12_606     | SubGrammar: 12 | 测试编号: 606  | Cross Count: 8277
+  密码: ['philipp', 'PHILIPP', 'carlos', 'raven12', 'raven25', 'cocacolad']
+
+排名 26: test_13_739     | SubGrammar: 13 | 测试编号: 739  | Cross Count: 8275
+  密码: ['plates', 'PHILIPP', 'raven12', 'philipp', 'matt95695', 'plates']
+
+排名 27: test_13_154     | SubGrammar: 13 | 测试编号: 154  | Cross Count: 8265
+  密码: ['MATT95195', 'raven12', 'suckit', 'COCACOLAD', 'PHILIPP', 'philipp']
+
+排名 28: test_12_613     | SubGrammar: 12 | 测试编号: 613  | Cross Count: 8228
+  密码: ['philipp', 'raven12', 'suckit', 'COCACOLAD', 'SUCKIT', 'PHILIPP']
+
+排名 29: test_13_405     | SubGrammar: 13 | 测试编号: 405  | Cross Count: 8209
+  密码: ['philipp', 'PLATES', 'philipp', 'raven12', 'plates', 'PHILIPP']
+
+排名 30: test_13_905     | SubGrammar: 13 | 测试编号: 905  | Cross Count: 8209
+  密码: ['raven12', 'plates', 'plates', 'PHILIPP', 'PLATES', 'philipp']
+
+排名 31: test_13_386     | SubGrammar: 13 | 测试编号: 386  | Cross Count: 8204
+  密码: ['raven12', 'suckit', 'raven12', 'philipp', 'PHILIPP', 'RAVEN12']
+
+排名 32: test_13_882     | SubGrammar: 13 | 测试编号: 882  | Cross Count: 8204
+  密码: ['RAVEN12', 'raven12', 'suckit', 'suckit', 'philipp', 'PHILIPP']
+
+排名 33: test_13_322     | SubGrammar: 13 | 测试编号: 322  | Cross Count: 8166
+  密码: ['RAVEN12', 'PHILIPP', 'raven12', 'PLATES', 'philipp', 'SUCKIT']
+
+排名 34: test_13_758     | SubGrammar: 13 | 测试编号: 758  | Cross Count: 8166
+  密码: ['philipp', 'PLATES', 'RAVEN12', 'raven12', 'SUCKIT', 'PHILIPP']
+
+排名 35: test_13_366     | SubGrammar: 13 | 测试编号: 366  | Cross Count: 8157
+  密码: ['COCACOLAD', 'plates', 'SUCKIT', 'suckit', 'philipp', 'raven12']
+
+排名 36: test_13_623     | SubGrammar: 13 | 测试编号: 623  | Cross Count: 8154
+  密码: ['plates', 'matt88188', 'suckit', 'PHILIPP', 'philipp', 'COCACOLAIS']
+
+排名 37: test_12_200     | SubGrammar: 12 | 测试编号: 200  | Cross Count: 8153
+  密码: ['raven12', 'PHILIPP', 'philipp', 'CARLOS', 'suckit', 'COCACOLAD']
+
+排名 38: test_13_483     | SubGrammar: 13 | 测试编号: 483  | Cross Count: 8151
+  密码: ['PHILIPP', 'RAVEN12', 'philipp', 'SUCKIT', 'raven12', 'COCACOLAD']
+
+排名 39: test_13_941     | SubGrammar: 13 | 测试编号: 941  | Cross Count: 8146
+  密码: ['PHILIPP', 'plates', 'raven12', 'philipp', 'SUCKIT', 'philipp']
+
+排名 40: test_13_641     | SubGrammar: 13 | 测试编号: 641  | Cross Count: 8140
+  密码: ['cocacolad', 'COCACOLAD', 'MATT95195', 'philipp', 'PHILIPP', 'plates']
+
+排名 41: test_13_464     | SubGrammar: 13 | 测试编号: 464  | Cross Count: 8132
+  密码: ['PHILIPP', 'raven12', 'philipp', 'COCACOLAD', 'cocacolamy', 'suckit']
+
+排名 42: test_12_219     | SubGrammar: 12 | 测试编号: 219  | Cross Count: 8090
+  密码: ['cocacolad', 'suckit', 'philipp', 'PHILIPP', 'carlos25', 'PHILIPP']
+
+排名 43: test_13_85      | SubGrammar: 13 | 测试编号: 85   | Cross Count: 8076
+  密码: ['MATT88288', 'raven12', 'plates', 'philipp', 'PHILIPP', 'PHILIPP']
+
+排名 44: test_13_901     | SubGrammar: 13 | 测试编号: 901  | Cross Count: 8075
+  密码: ['suckit', 'raven12', 'raven12', 'matt88688', 'PHILIPP', 'philipp']
+
+排名 45: test_13_187     | SubGrammar: 13 | 测试编号: 187  | Cross Count: 8069
+  密码: ['PHILIPP', 'philipp', 'philipp', 'RAVEN12', 'cocacolad', 'raven12']
+
+排名 46: test_13_307     | SubGrammar: 13 | 测试编号: 307  | Cross Count: 8069
+  密码: ['philipp', 'PHILIPP', 'cocacolad', 'raven12', 'RAVEN12', 'PHILIPP']
+
+排名 47: test_13_8       | SubGrammar: 13 | 测试编号: 8    | Cross Count: 8061
+  密码: ['COCACOLAD', 'philipp', 'raven12', 'PHILIPP', 'PLATES', 'MATT95195']
+
+排名 48: test_13_445     | SubGrammar: 13 | 测试编号: 445  | Cross Count: 8051
+  密码: ['philipp', 'COCACOLAD', 'RAVEN12', 'PHILIPP', 'cocacolad', 'suckit']
+
+排名 49: test_2_601      | SubGrammar: 2  | 测试编号: 601  | Cross Count: 8050
+  密码: ['matt95295', 'goodluck1', 'PHILIPP', 'philipp', 'goodluck2', 'philipp']
+
+排名 50: test_13_898     | SubGrammar: 13 | 测试编号: 898  | Cross Count: 8040
+  密码: ['philipp', 'PLATES', 'COCACOLAD', 'raven12', 'PHILIPP', 'COCACOLAME']
+

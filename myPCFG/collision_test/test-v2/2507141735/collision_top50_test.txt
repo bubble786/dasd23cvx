@@ -1,0 +1,155 @@
+处理时间: 2025-07-14 16:46:58
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_13_227     | SubGrammar: 13 | 测试编号: 227  | Cross Count: 13034
+  密码: ['kindred', 'kindred', '113091', '!', 'kindred', 'kmk123']
+
+排名 2 : test_13_485     | SubGrammar: 13 | 测试编号: 485  | Cross Count: 13034
+  密码: ['kmk123', 'kindred', 'kindred', '113091', 'kindred', '!']
+
+排名 3 : test_13_489     | SubGrammar: 13 | 测试编号: 489  | Cross Count: 13034
+  密码: ['113091', '113091', 'kindred', 'kindred', 'kmk123', '!']
+
+排名 4 : test_13_589     | SubGrammar: 13 | 测试编号: 589  | Cross Count: 13034
+  密码: ['113091', 'kindred', 'kmk123', '!', '113091', 'kindred']
+
+排名 5 : test_13_936     | SubGrammar: 13 | 测试编号: 936  | Cross Count: 13034
+  密码: ['113091', '!', '113091', 'kmk123', 'kindred', '113091']
+
+排名 6 : test_13_814     | SubGrammar: 13 | 测试编号: 814  | Cross Count: 13023
+  密码: ['!', 'saleen2', 'killer1', 'kindred', '113091', 'kindred']
+
+排名 7 : test_13_929     | SubGrammar: 13 | 测试编号: 929  | Cross Count: 13011
+  密码: ['kindred', '!', 'kindred', '113091', 'killer1', 'k1ndred']
+
+排名 8 : test_13_111     | SubGrammar: 13 | 测试编号: 111  | Cross Count: 13009
+  密码: ['killer1', '113091', '!', 'kindred', '113091', '113091']
+
+排名 9 : test_13_371     | SubGrammar: 13 | 测试编号: 371  | Cross Count: 13009
+  密码: ['113091', '!', 'killer1', '113091', '113091', 'kindred']
+
+排名 10: test_13_559     | SubGrammar: 13 | 测试编号: 559  | Cross Count: 13009
+  密码: ['killer1', 'kindred', '!', '113091', 'kindred', 'kindred']
+
+排名 11: test_13_75      | SubGrammar: 13 | 测试编号: 75   | Cross Count: 12820
+  密码: ['kindred', '113091', 'hidden1', '!', 'kindred', 'kindred']
+
+排名 12: test_13_210     | SubGrammar: 13 | 测试编号: 210  | Cross Count: 12820
+  密码: ['hidden1', 'kindred', '113091', 'kindred', 'kindred', '!']
+
+排名 13: test_13_281     | SubGrammar: 13 | 测试编号: 281  | Cross Count: 12820
+  密码: ['hidden1', 'kindred', '!', 'kindred', '113091', 'kindred']
+
+排名 14: test_13_552     | SubGrammar: 13 | 测试编号: 552  | Cross Count: 12820
+  密码: ['hidden1', 'kindred', '113091', 'kindred', '!', 'kindred']
+
+排名 15: test_13_942     | SubGrammar: 13 | 测试编号: 942  | Cross Count: 12820
+  密码: ['113091', '!', 'kindred', 'kindred', 'kindred', 'hidden1']
+
+排名 16: test_11_586     | SubGrammar: 11 | 测试编号: 586  | Cross Count: 12488
+  密码: ['garden123', ' ', '!', 'kindred', 'kmk123', 'trucks123']
+
+排名 17: test_13_903     | SubGrammar: 13 | 测试编号: 903  | Cross Count: 12485
+  密码: ['113091', '.', 'kindred', 'kindred', 'kmk123', 'hidden1']
+
+排名 18: test_13_537     | SubGrammar: 13 | 测试编号: 537  | Cross Count: 12481
+  密码: ['!', 'saleen1', '113091', '113091', 'kindred', 'kindred']
+
+排名 19: test_13_604     | SubGrammar: 13 | 测试编号: 604  | Cross Count: 12481
+  密码: ['113091', 'kindred', '113091', '!', 'saleen1', 'kindred']
+
+排名 20: test_13_749     | SubGrammar: 13 | 测试编号: 749  | Cross Count: 12481
+  密码: ['kindred', '!', '113091', 'saleen1', '113091', 'kindred']
+
+排名 21: test_13_358     | SubGrammar: 13 | 测试编号: 358  | Cross Count: 12475
+  密码: ['kindred', '_', 'kindred', '113091', '!', '113091']
+
+排名 22: test_13_792     | SubGrammar: 13 | 测试编号: 792  | Cross Count: 12459
+  密码: ['113091', '!', 'kindred', 'hidden2', 'kindred', '113091']
+
+排名 23: test_11_727     | SubGrammar: 11 | 测试编号: 727  | Cross Count: 12404
+  密码: ['grindcore', 'kindred', '!', '.', 'kindred', 'trucks123']
+
+排名 24: test_13_578     | SubGrammar: 13 | 测试编号: 578  | Cross Count: 12393
+  密码: ['kindred', 'kindred', '113091', '113091', 'hidden3', '!']
+
+排名 25: test_13_696     | SubGrammar: 13 | 测试编号: 696  | Cross Count: 12355
+  密码: ['k1ndred', 'kindred', 'kindred', 'kindred', '!', '113091']
+
+排名 26: test_13_514     | SubGrammar: 13 | 测试编号: 514  | Cross Count: 12354
+  密码: ['!', '113091', 'kindred', '113091', 'KINDRED', 'kindred']
+
+排名 27: test_13_686     | SubGrammar: 13 | 测试编号: 686  | Cross Count: 12354
+  密码: ['KINDRED', '113091', 'kindred', 'kindred', '!', 'kindred']
+
+排名 28: test_13_163     | SubGrammar: 13 | 测试编号: 163  | Cross Count: 12353
+  密码: ['kindred', '113091', 'kindred', '!', 'kindred', 'kindred']
+
+排名 29: test_13_196     | SubGrammar: 13 | 测试编号: 196  | Cross Count: 12353
+  密码: ['113091', 'kindred', '113091', '113091', 'kindred', '!']
+
+排名 30: test_13_229     | SubGrammar: 13 | 测试编号: 229  | Cross Count: 12353
+  密码: ['113091', 'kindred', '!', '113091', 'kindred', 'kindred']
+
+排名 31: test_13_255     | SubGrammar: 13 | 测试编号: 255  | Cross Count: 12353
+  密码: ['kindred', 'kindred', '113091', 'kindred', 'kindred', '!']
+
+排名 32: test_13_267     | SubGrammar: 13 | 测试编号: 267  | Cross Count: 12353
+  密码: ['!', '113091', 'kindred', '113091', 'kindred', 'kindred']
+
+排名 33: test_13_319     | SubGrammar: 13 | 测试编号: 319  | Cross Count: 12353
+  密码: ['kindred', '!', 'kindred', 'kindred', '113091', '113091']
+
+排名 34: test_13_324     | SubGrammar: 13 | 测试编号: 324  | Cross Count: 12353
+  密码: ['113091', 'kindred', 'kindred', 'kindred', '!', 'kindred']
+
+排名 35: test_13_363     | SubGrammar: 13 | 测试编号: 363  | Cross Count: 12353
+  密码: ['113091', 'kindred', '113091', '!', 'kindred', 'kindred']
+
+排名 36: test_13_381     | SubGrammar: 13 | 测试编号: 381  | Cross Count: 12353
+  密码: ['113091', 'kindred', '113091', 'kindred', '!', 'kindred']
+
+排名 37: test_13_395     | SubGrammar: 13 | 测试编号: 395  | Cross Count: 12353
+  密码: ['113091', 'kindred', 'kindred', '!', 'kindred', '113091']
+
+排名 38: test_13_452     | SubGrammar: 13 | 测试编号: 452  | Cross Count: 12353
+  密码: ['kindred', '113091', '!', 'kindred', 'kindred', '113091']
+
+排名 39: test_13_504     | SubGrammar: 13 | 测试编号: 504  | Cross Count: 12353
+  密码: ['113091', 'kindred', '!', 'kindred', 'kindred', '113091']
+
+排名 40: test_13_675     | SubGrammar: 13 | 测试编号: 675  | Cross Count: 12353
+  密码: ['113091', 'kindred', '113091', 'kindred', '!', '113091']
+
+排名 41: test_13_834     | SubGrammar: 13 | 测试编号: 834  | Cross Count: 12353
+  密码: ['kindred', '!', 'kindred', '113091', 'kindred', 'kindred']
+
+排名 42: test_13_853     | SubGrammar: 13 | 测试编号: 853  | Cross Count: 12353
+  密码: ['kindred', 'kindred', 'kindred', '113091', 'kindred', '!']
+
+排名 43: test_13_858     | SubGrammar: 13 | 测试编号: 858  | Cross Count: 12353
+  密码: ['kindred', 'kindred', '!', 'kindred', '113091', '113091']
+
+排名 44: test_13_906     | SubGrammar: 13 | 测试编号: 906  | Cross Count: 12353
+  密码: ['kindred', '113091', '113091', 'kindred', '!', '113091']
+
+排名 45: test_13_916     | SubGrammar: 13 | 测试编号: 916  | Cross Count: 12353
+  密码: ['kindred', 'kindred', 'kindred', '113091', 'kindred', '!']
+
+排名 46: test_13_922     | SubGrammar: 13 | 测试编号: 922  | Cross Count: 12353
+  密码: ['kindred', '113091', 'kindred', 'kindred', '!', '113091']
+
+排名 47: test_13_999     | SubGrammar: 13 | 测试编号: 999  | Cross Count: 12353
+  密码: ['kindred', '!', '113091', 'kindred', '113091', 'kindred']
+
+排名 48: test_13_468     | SubGrammar: 13 | 测试编号: 468  | Cross Count: 12031
+  密码: ['kindred', 'saleen1', 'kmk123', '113091', 'kindred', 'killer1']
+
+排名 49: test_11_339     | SubGrammar: 11 | 测试编号: 339  | Cross Count: 12017
+  密码: ['trucks123', 'kindred', 'kindred', 'kindred', '!', 'kmk123']
+
+排名 50: test_12_296     | SubGrammar: 12 | 测试编号: 296  | Cross Count: 12017
+  密码: ['kindred', 'kindred', 'kmk123', 'kmk123', '!', 'trucks123']
+

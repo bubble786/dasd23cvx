@@ -1,0 +1,155 @@
+处理时间: 2025-07-16 16:41:15
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_9_804      | SubGrammar: 9  | 测试编号: 804  | Cross Count: 8527
+  密码: ['freakafreaka', '159753', 'killerkiller', 'goodluck', 'hiddenhidden', 'h1ddenh1dden']
+
+排名 2 : test_9_385      | SubGrammar: 9  | 测试编号: 385  | Cross Count: 8499
+  密码: ['freakafreaka', 'hiddenhidden', 'killerkiller', '159753', 'goodluck', 'freakofreako']
+
+排名 3 : test_9_65       | SubGrammar: 9  | 测试编号: 65   | Cross Count: 8443
+  密码: ['killerkiller', 'elementa1', 'goodluck', 'hiddenhidden', '159753', 'freakafreaka']
+
+排名 4 : test_9_53       | SubGrammar: 9  | 测试编号: 53   | Cross Count: 8385
+  密码: ['159753', 'goodluck', 'hiddenhidden', 'freakafreaka', 'killerkiller', 'pantech9i']
+
+排名 5 : test_9_751      | SubGrammar: 9  | 测试编号: 751  | Cross Count: 8082
+  密码: ['killerkiller', '159753', 'hiddenhidden', 'killerkiller', '-', 'goodluck']
+
+排名 6 : test_9_395      | SubGrammar: 9  | 测试编号: 395  | Cross Count: 8065
+  密码: ['159753', 'hiddenhidden', 'element1o', 'killerkiller', 'goodluck', '159753']
+
+排名 7 : test_9_570      | SubGrammar: 9  | 测试编号: 570  | Cross Count: 8056
+  密码: ['159753', 'hiddenhidden', 'kill3rkill3r', 'goodluck', '159753', 'killerkiller']
+
+排名 8 : test_9_242      | SubGrammar: 9  | 测试编号: 242  | Cross Count: 8034
+  密码: ['goodluck', '159753', 'fre@k@fre@k@', 'goodluck', 'hiddenhidden', 'killerkiller']
+
+排名 9 : test_9_985      | SubGrammar: 9  | 测试编号: 985  | Cross Count: 8032
+  密码: ['goodluck', 'goodluck', '159753', 'p@nt3ch1o', 'killerkiller', 'hiddenhidden']
+
+排名 10: test_9_30       | SubGrammar: 9  | 测试编号: 30   | Cross Count: 8030
+  密码: ['killerkiller', '159753', 'goodluck', 'goodluck', 'hiddenhidden', 'goodluck']
+
+排名 11: test_9_496      | SubGrammar: 9  | 测试编号: 496  | Cross Count: 8030
+  密码: ['hiddenhidden', '159753', 'goodluck', 'fR3akafR3aka', 'killerkiller', 'killerkiller']
+
+排名 12: test_9_676      | SubGrammar: 9  | 测试编号: 676  | Cross Count: 8030
+  密码: ['159753', '159753', '159753', 'killerkiller', 'hiddenhidden', 'goodluck']
+
+排名 13: test_9_394      | SubGrammar: 9  | 测试编号: 394  | Cross Count: 7537
+  密码: ['killerkiller', 'freakafreaka', '159753', 'HIDDENHIDDEN', 'h1dd3nh1dd3n', 'hiddenhidden']
+
+排名 14: test_9_150      | SubGrammar: 9  | 测试编号: 150  | Cross Count: 7504
+  密码: ['elemento1', 'goodluck', 'killerkiller', 'HiddenHidden', 'freakofreako', '159753']
+
+排名 15: test_9_57       | SubGrammar: 9  | 测试编号: 57   | Cross Count: 7492
+  密码: ['hiddenhidden', '159753', 'freakafreaka', 'freakofreako', 'fr3@kc0fr3@kc0', 'goodluck']
+
+排名 16: test_2_1064     | SubGrammar: 2  | 测试编号: 1064 | Cross Count: 7465
+  密码: ['kindred6me', '!', '159753', 'kindred6', 'killerkiller', 'hiddenhidden']
+
+排名 17: test_0_260      | SubGrammar: 0  | 测试编号: 260  | Cross Count: 7433
+  密码: ['hiddenhidden', 'killerkiller', 'Philipp241', 'kindred1', '159753', 'h1dd3nh1dd3n']
+
+排名 18: test_2_177      | SubGrammar: 2  | 测试编号: 177  | Cross Count: 7419
+  密码: ['hiddenhidden', 'killerkiller', '159753', 'kindred241', 'philipp6', '!']
+
+排名 19: test_9_219      | SubGrammar: 9  | 测试编号: 219  | Cross Count: 7400
+  密码: ['freakafreaka', 'hiddenhidden', 'element1o', '159753', 'goodluck', 'element@6']
+
+排名 20: test_9_899      | SubGrammar: 9  | 测试编号: 899  | Cross Count: 7398
+  密码: ['killerkiller', 'g00dluck', 'elementi1', 'freakafreaka', 'goodluck', '159753']
+
+排名 21: test_2_676      | SubGrammar: 2  | 测试编号: 676  | Cross Count: 7392
+  密码: ['hiddenhidden', 'killerkiller', 'Philipp246', 'philipp1o', '159753', 'HiddenHidden']
+
+排名 22: test_9_656      | SubGrammar: 9  | 测试编号: 656  | Cross Count: 7367
+  密码: ['hiddenhidden', 'freakafreaka', 'killerkiller', 'p@ntech01', '159753', 'h1ddenh1dden']
+
+排名 23: test_9_462      | SubGrammar: 9  | 测试编号: 462  | Cross Count: 7360
+  密码: ['159753', 'element1@', 'goodluck', 'p@ntecho1', 'hiddenhidden', 'freakafreaka']
+
+排名 24: test_9_97       | SubGrammar: 9  | 测试编号: 97   | Cross Count: 7344
+  密码: ['goodluck', 'freakafreaka', 'goodluck', 'pantecha1', 'killerkiller', '159753']
+
+排名 25: test_9_561      | SubGrammar: 9  | 测试编号: 561  | Cross Count: 7338
+  密码: ['goodluck', 'freakafreaka', '159753', 'P@ntech1@', 'hiddenhidden', 'goodluck']
+
+排名 26: test_9_623      | SubGrammar: 9  | 测试编号: 623  | Cross Count: 7337
+  密码: ['freakafreaka', 'hiddenhidden', 'p@nt3ch12', 'goodluck', 'element6my', '159753']
+
+排名 27: test_9_712      | SubGrammar: 9  | 测试编号: 712  | Cross Count: 7336
+  密码: ['159753', 'hiddenhidden', 'fRe@kOfRe@kO', 'freakafreaka', 'pantechmy8', 'goodluck']
+
+排名 28: test_9_489      | SubGrammar: 9  | 测试编号: 489  | Cross Count: 7329
+  密码: ['element1me', 'killerkiller', '3L3m3nto8', '159753', 'goodluck', 'freakafreaka']
+
+排名 29: test_9_621      | SubGrammar: 9  | 测试编号: 621  | Cross Count: 7327
+  密码: ['159753', 'killerkiller', 'freakafreaka', '159753', 'p@ntech01', 'goodluck']
+
+排名 30: test_9_878      | SubGrammar: 9  | 测试编号: 878  | Cross Count: 7326
+  密码: ['159753', 'fr3@kofr3@ko', 'killerkiller', '159753', 'freakafreaka', 'goodluck']
+
+排名 31: test_9_20       | SubGrammar: 9  | 测试编号: 20   | Cross Count: 7325
+  密码: ['freakafreaka', '159753', 'goodluck', 'goodluck', 'freakafreaka', 'killerkiller']
+
+排名 32: test_9_671      | SubGrammar: 9  | 测试编号: 671  | Cross Count: 7325
+  密码: ['159753', 'fre@kmfre@km', 'killerkiller', 'goodluck', 'freakafreaka', 'element9jr']
+
+排名 33: test_9_904      | SubGrammar: 9  | 测试编号: 904  | Cross Count: 7325
+  密码: ['goodluck', '159753', '159753', 'killerkiller', 'killerkiller', 'freakafreaka']
+
+排名 34: test_9_12       | SubGrammar: 9  | 测试编号: 12   | Cross Count: 7310
+  密码: ['HiddenHidden', 'goodluck', '159753', 'killerkiller', 'goodluck', 'fre@ke1fre@ke1']
+
+排名 35: test_9_778      | SubGrammar: 9  | 测试编号: 778  | Cross Count: 7307
+  密码: ['killerkiller', 'goodluck', '159753', 'k1llerk1ller', 'freakofreako', '159753']
+
+排名 36: test_9_418      | SubGrammar: 9  | 测试编号: 418  | Cross Count: 7286
+  密码: ['-', 'goodluck', 'p@nt3ch@2', '159753', '!', 'hiddenhidden']
+
+排名 37: test_9_486      | SubGrammar: 9  | 测试编号: 486  | Cross Count: 7281
+  密码: ['p@ntech@1', '159753', 'h1ddenh1dden', 'killerkiller', '.', 'goodluck']
+
+排名 38: test_2_1065     | SubGrammar: 2  | 测试编号: 1065 | Cross Count: 7249
+  密码: ['hiddenhidden', 'killerkiller', 'HiddenHidden', '159753', 'kindred241', 'kindred1oz']
+
+排名 39: test_9_854      | SubGrammar: 9  | 测试编号: 854  | Cross Count: 7243
+  密码: ['freakofreako', '159753', 'p@nt3ch@1', ' ', 'goodluck', 'hiddenhidden']
+
+排名 40: test_2_37       | SubGrammar: 2  | 测试编号: 37   | Cross Count: 7233
+  密码: ['chanman96', 'Philipp6O', 'kindred246', '159753', 'hiddenhidden', 'killerkiller']
+
+排名 41: test_1_640      | SubGrammar: 1  | 测试编号: 640  | Cross Count: 7228
+  密码: ['matt95695', 'philipp241', '159753', 'killerkiller', 'ph1l1ppmy6', 'hiddenhidden']
+
+排名 42: test_2_598      | SubGrammar: 2  | 测试编号: 598  | Cross Count: 7227
+  密码: ['philipp246', '159753', 'hiddenhidden', '159753', 'Kindred6', 'killerkiller']
+
+排名 43: test_9_518      | SubGrammar: 9  | 测试编号: 518  | Cross Count: 7227
+  密码: ['goodluck', 'killerkiller', '!', 'killerkiller', '159753', '3l3m3nt9@']
+
+排名 44: test_0_637      | SubGrammar: 0  | 测试编号: 637  | Cross Count: 7226
+  密码: ['KillerKiller', 'Pantech1', 'killerkiller', 'PHILIPP246', '159753', 'hiddenhidden']
+
+排名 45: test_9_645      | SubGrammar: 9  | 测试编号: 645  | Cross Count: 7225
+  密码: ['h1dd3nh1dd3n', 'k1llerk1ller', '159753', 'goodluck', '159753', 'killerkiller']
+
+排名 46: test_9_461      | SubGrammar: 9  | 测试编号: 461  | Cross Count: 7221
+  密码: ['goodluck', 'h1dd3nh1dd3n', '159753', 'p@nt3cho5', 'killerkiller', 'freakofreako']
+
+排名 47: test_2_351      | SubGrammar: 2  | 测试编号: 351  | Cross Count: 7220
+  密码: ['pantech246', 'killerkiller', 'chanman96', '159753', 'ChanMan96', 'hiddenhidden']
+
+排名 48: test_2_250      | SubGrammar: 2  | 测试编号: 250  | Cross Count: 7217
+  密码: ['killerkiller', '159753', 'kindred246', 'hiddenhidden', 'pantech6ah', 'Philipp241']
+
+排名 49: test_11_85      | SubGrammar: 11 | 测试编号: 85   | Cross Count: 7215
+  密码: ['aaaaa1', '18888', 'killerkiller', 'goodluck', 'hiddenhidden', '620202020']
+
+排名 50: test_9_69       | SubGrammar: 9  | 测试编号: 69   | Cross Count: 7214
+  密码: ['killerkiller', 'freakofreako', 'goodluck', '159753', 'k1ll3rk1ll3r', 'freakofreako']
+

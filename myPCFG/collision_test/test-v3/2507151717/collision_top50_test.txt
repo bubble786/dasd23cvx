@@ -1,0 +1,155 @@
+处理时间: 2025-07-15 17:18:46
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_4_65       | SubGrammar: 4  | 测试编号: 65   | Cross Count: 7621
+  密码: ['randall', 'Monkey', 'monkey', 'sinksink', 'monkey', 'sabbath']
+
+排名 2 : test_4_691      | SubGrammar: 4  | 测试编号: 691  | Cross Count: 7448
+  密码: ['SABBATH', 'Monkey', 'randall', 'Randall', 'RjAllenRj.Rj', 'sabbath']
+
+排名 3 : test_4_565      | SubGrammar: 4  | 测试编号: 565  | Cross Count: 7421
+  密码: ['HHHHHHH9H', 'MONKEY', 'monkey', 'qqqqqqq8q', 'randall', 'sabbath']
+
+排名 4 : test_4_152      | SubGrammar: 4  | 测试编号: 152  | Cross Count: 7324
+  密码: ['SABBATH', 'Monkey', 'Monkey', 'MONKEY', 'randall', 'sabbath']
+
+排名 5 : test_4_500      | SubGrammar: 4  | 测试编号: 500  | Cross Count: 7270
+  密码: ['sabbath', 'rjallenrj.rj', 'callenc.c', 'sinksink', 'MONKEY', 'randall']
+
+排名 6 : test_7_274      | SubGrammar: 7  | 测试编号: 274  | Cross Count: 7263
+  密码: ['killer1', 'yyyyyyy9y', 'sabbath', 'randall', 'Killer9', 'RJRJRJRJRJRJRJ9RJ']
+
+排名 7 : test_7_788      | SubGrammar: 7  | 测试编号: 788  | Cross Count: 7250
+  密码: ['KILLER1', 'sabbath', 'killer9', 'randall', 'KILLER9', 'Sabbath']
+
+排名 8 : test_4_615      | SubGrammar: 4  | 测试编号: 615  | Cross Count: 7249
+  密码: ['minimini', 'sinksink', 'sabbath', 'SINKSINK', 'randall', 'InAllenIn.In']
+
+排名 9 : test_4_347      | SubGrammar: 4  | 测试编号: 347  | Cross Count: 7226
+  密码: ['MINIMINI', 'minimini', 'sinksink', 'randall', 'sabbath', 'sabbath']
+
+排名 10: test_7_599      | SubGrammar: 7  | 测试编号: 599  | Cross Count: 7220
+  密码: ['sabbath', 'randall', 'KILLER2', '9201014k', 'killer1', 'killer9']
+
+排名 11: test_4_372      | SubGrammar: 4  | 测试编号: 372  | Cross Count: 7191
+  密码: ['sinksink', 'MiniMini', 'sabbath', 'randall', 'callenc.c', 'ToToToToToToTo9To']
+
+排名 12: test_6_982      | SubGrammar: 6  | 测试编号: 982  | Cross Count: 7183
+  密码: ['Monkey', 'Jonjon55', 'goodluck1', 'goodluck9', 'monkey', 'randall']
+
+排名 13: test_7_796      | SubGrammar: 7  | 测试编号: 796  | Cross Count: 7177
+  密码: ['qqqqqqq6q', 'killer1', '1201014h', 'KILLER9', 'sabbath', 'randall']
+
+排名 14: test_4_735      | SubGrammar: 4  | 测试编号: 735  | Cross Count: 7154
+  密码: ['randall', 'SINKSINK', 'SinkSink', 'LALLENL.L', 'kallenk.k', 'sabbath']
+
+排名 15: test_4_911      | SubGrammar: 4  | 测试编号: 911  | Cross Count: 7154
+  密码: ['qallenq q', 'sabbath', 'monkey', 'QQQQQQQ1Q', 'randall', 'QQQQQQQ1Q']
+
+排名 16: test_4_979      | SubGrammar: 4  | 测试编号: 979  | Cross Count: 7149
+  密码: ['randall', 'KKKKKKK7K', 'jjjjjjj1j', 'HAllenH.H', 'sabbath', 'monkey']
+
+排名 17: test_4_365      | SubGrammar: 4  | 测试编号: 365  | Cross Count: 7113
+  密码: ['HALLENH.H', 'randall', 'SABBATH', 'MONKEY', 'sabbath', 'YALLENY.Y']
+
+排名 18: test_4_5        | SubGrammar: 4  | 测试编号: 5    | Cross Count: 7110
+  密码: ['sabbath', 'randall', 'LLLLLLL1L', 'minimini', 'YALLENY.Y', 'MONKEY']
+
+排名 19: test_4_160      | SubGrammar: 4  | 测试编号: 160  | Cross Count: 7099
+  密码: ['randall', 'HAllenH.H', 'ccccccc3c', 'kallenk.k', 'sabbath', 'SABBATH']
+
+排名 20: test_4_267      | SubGrammar: 4  | 测试编号: 267  | Cross Count: 7085
+  密码: ['sabbath', 'RANDALL', 'randall', 'm1n1m1n1', 'CALLENC.C', 'MONKEY']
+
+排名 21: test_4_812      | SubGrammar: 4  | 测试编号: 812  | Cross Count: 7078
+  密码: ['sabbath', 'MONKEY', 'SABBATH', 'MONKEY', 'randall', 'MONKEY']
+
+排名 22: test_4_762      | SubGrammar: 4  | 测试编号: 762  | Cross Count: 7076
+  密码: ['QALLENQ Q', 'YALLENY.Y', 'RANDALL', 'randall', 'sinksink', 'sabbath']
+
+排名 23: test_4_714      | SubGrammar: 4  | 测试编号: 714  | Cross Count: 7069
+  密码: ['Sabbath', 'randall', 'MiniMini', 'sabbath', 'OALLENO.O', 'JAllenJ.J']
+
+排名 24: test_4_64       | SubGrammar: 4  | 测试编号: 64   | Cross Count: 7061
+  密码: ['sabbath', 'KKKKKKK1K', 'MONKEY', 'rjrjrjrjrjrjrj1rj', 'randall', 'MiniMini']
+
+排名 25: test_7_810      | SubGrammar: 7  | 测试编号: 810  | Cross Count: 7044
+  密码: ['randall', '#', 'KILLER9', 'SCOTT9', 'Sabbath', 'sabbath']
+
+排名 26: test_4_502      | SubGrammar: 4  | 测试编号: 502  | Cross Count: 7040
+  密码: ['HAllenH.H', 'OOOOOOO1O', 'SINKSINK', 'sinksink', 'randall', 'sabbath']
+
+排名 27: test_7_203      | SubGrammar: 7  | 测试编号: 203  | Cross Count: 7037
+  密码: ['.', 'randall', 'sc0tt1', 'Randall', 's4bb4th', 'sabbath']
+
+排名 28: test_7_1010     | SubGrammar: 7  | 测试编号: 1010 | Cross Count: 7023
+  密码: ['randall', 'RANDALL', 'Scott9', 'Scott9', 'scott1', 'sabbath']
+
+排名 29: test_7_174      | SubGrammar: 7  | 测试编号: 174  | Cross Count: 7006
+  密码: ['9201014J', 'Killer9', 'sabbath', 'SCOTT9', 'randall', 'Sabbath']
+
+排名 30: test_4_302      | SubGrammar: 4  | 测试编号: 302  | Cross Count: 6996
+  密码: ['sabbath', 'randall', 'Monkey', 'rjrjrjrjrjrjrj1rj', 'ccccccc9c', 'callenc.c']
+
+排名 31: test_4_25       | SubGrammar: 4  | 测试编号: 25   | Cross Count: 6993
+  密码: ['sabbath', 'randall', 'Sabbath', 'LLLLLLL9L', 'RjRjRjRjRjRjRj9Rj', 'CCCCCCC3C']
+
+排名 32: test_4_51       | SubGrammar: 4  | 测试编号: 51   | Cross Count: 6991
+  密码: ['SinkSink', 'randall', 'randall', 'RANDALL', 'randall', 'sabbath']
+
+排名 33: test_4_143      | SubGrammar: 4  | 测试编号: 143  | Cross Count: 6971
+  密码: ['MiniMini', 'sabbath', 'randall', 'kallenk.k', 'KKKKKKK1K', 'randall']
+
+排名 34: test_4_239      | SubGrammar: 4  | 测试编号: 239  | Cross Count: 6954
+  密码: ['MiniMini', 'Monkey', 'randall', 'HALLENH.H', 'sabbath', 'hhhhhhh1h']
+
+排名 35: test_7_970      | SubGrammar: 7  | 测试编号: 970  | Cross Count: 6941
+  密码: ['sabbath', 'k1ller1', 'sc0tt1', 'randall', 'HHHHHHH9H', 'KILLER9']
+
+排名 36: test_7_950      | SubGrammar: 7  | 测试编号: 950  | Cross Count: 6908
+  密码: ['ininininininin7in', 'sc0tt9', 'sabbath', 'Randall', 'randall', 'Scott1']
+
+排名 37: test_7_829      | SubGrammar: 7  | 测试编号: 829  | Cross Count: 6901
+  密码: ['Killer9', 'randall', 'Sabbath', 'Killer9', 'sabbath', 'iiiiiii1i']
+
+排名 38: test_7_443      | SubGrammar: 7  | 测试编号: 443  | Cross Count: 6897
+  密码: ['jjjjjjj1j', 'randall', 'sabbath', 'RANDALL', '9201014y', 'lllllll1l']
+
+排名 39: test_7_43       | SubGrammar: 7  | 测试编号: 43   | Cross Count: 6893
+  密码: ['sabbath', 'randall', '1201014q', 'k1ller1', 'KILLER9', 'JJJJJJJ1J']
+
+排名 40: test_4_727      | SubGrammar: 4  | 测试编号: 727  | Cross Count: 6861
+  密码: ['randall', 'MINIMINI', 'sabbath', 'oalleno!o', 'OAllenO.O', 'Monkey']
+
+排名 41: test_6_987      | SubGrammar: 6  | 测试编号: 987  | Cross Count: 6856
+  密码: ['Randall', 'pint16', 'LLLLLLL1L', 'randall', 'MONKEY', 'goodluck1']
+
+排名 42: test_7_348      | SubGrammar: 7  | 测试编号: 348  | Cross Count: 6852
+  密码: ['Randall', 'QQQQQQQ9Q', 'randall', 'sabbath', '1201014Q', 'OOOOOOO2O']
+
+排名 43: test_7_93       | SubGrammar: 7  | 测试编号: 93   | Cross Count: 6848
+  密码: ['sabbath', 'SCOTT1', 'OxOxOxOxOxOxOx3Ox', 'randall', 'Randall', '9201014k']
+
+排名 44: test_10_796     | SubGrammar: 10 | 测试编号: 796  | Cross Count: 6835
+  密码: ['pint13', 'food1234', 'monkey', 'randall', 'pint1234', 'pint16']
+
+排名 45: test_7_444      | SubGrammar: 7  | 测试编号: 444  | Cross Count: 6831
+  密码: ['randall', 'Scott9', 'sabbath', 'randall', '1201014OX', 'Randall']
+
+排名 46: test_7_72       | SubGrammar: 7  | 测试编号: 72   | Cross Count: 6830
+  密码: ['yyyyyyy1y', 'oxoxoxoxoxoxox1ox', 'sabbath', '0x0x0x0x0x0x0x10x', 'randall', 'RANDALL']
+
+排名 47: test_6_365      | SubGrammar: 6  | 测试编号: 365  | Cross Count: 6830
+  密码: ['goodluck1', 'Goodluck6', 'randall', 'monkey', 'RANDALL', 'jonjon']
+
+排名 48: test_6_371      | SubGrammar: 6  | 测试编号: 371  | Cross Count: 6816
+  密码: ['randall', 'goodluck1', 'Pint16', 'Pint55', 'monkey', 'Goodluck9']
+
+排名 49: test_6_732      | SubGrammar: 6  | 测试编号: 732  | Cross Count: 6802
+  密码: ['Randall', 'goodluck1', 'randall', 'rjrjrjrjrjrjrj3rj', 'PINT16', 'monkey']
+
+排名 50: test_6_910      | SubGrammar: 6  | 测试编号: 910  | Cross Count: 6802
+  密码: ['KKKKKKK9K', 'Goodluck9', 'pint16', 'randall', 'Randall', 'goodluck1']
+

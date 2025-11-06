@@ -1,0 +1,155 @@
+处理时间: 2025-07-15 17:10:17
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_15_819     | SubGrammar: 15 | 测试编号: 819  | Cross Count: 4240
+  密码: ['8858888555', '9569595666', 'Goodluck2', 'windows', 'WINDOWS', 'sysysysysysy']
+
+排名 2 : test_15_24      | SubGrammar: 15 | 测试编号: 24   | Cross Count: 3842
+  密码: ['windows', '8868888666', '8898888999', '8758787555', '9529595222', 'QQQQQQ']
+
+排名 3 : test_1_403      | SubGrammar: 1  | 测试编号: 403  | Cross Count: 3806
+  密码: ['COMEINININ3', 'Kindred', 'windows', 'cometototo0', 'kindred', 'KINDRED']
+
+排名 4 : test_15_472     | SubGrammar: 15 | 测试编号: 472  | Cross Count: 3796
+  密码: ['boyghghgh2/87', 'windows', 'WWWWWW', 'Windows', '8858888555', '9559595555']
+
+排名 5 : test_15_900     | SubGrammar: 15 | 测试编号: 900  | Cross Count: 3762
+  密码: ['8858888555', 'windows', 'sysysysysysy', 'nnnas', 'Windows', 'WINDOWS']
+
+排名 6 : test_1_917      | SubGrammar: 1  | 测试编号: 917  | Cross Count: 3748
+  密码: ['Windows', 'kindred', 'ComeBBB1', 'KINDRED', 'windows', '02410140Sy']
+
+排名 7 : test_15_897     | SubGrammar: 15 | 测试编号: 897  | Cross Count: 3619
+  密码: ['g00dluck6', 'ToToToToToTo', 'windows', '8818888111', '8858888555', 'SySySySySySy']
+
+排名 8 : test_15_683     | SubGrammar: 15 | 测试编号: 683  | Cross Count: 3609
+  密码: ['wwn4z', 'windows', '9599595999', 'QQQQQQ', '9569595666', 'goodluck9']
+
+排名 9 : test_15_27      | SubGrammar: 15 | 测试编号: 27   | Cross Count: 3598
+  密码: ['nassysysy2/88', 'Windows', '8868888666', 'windows', 'jjjjjj', 'GOODLUCK1']
+
+排名 10: test_15_478     | SubGrammar: 15 | 测试编号: 478  | Cross Count: 3579
+  密码: ['ghghghghghgh', 'MeMeBoy', '8868888666', 'windows', 'qqqqqq', 'Windows']
+
+排名 11: test_15_790     | SubGrammar: 15 | 测试编号: 790  | Cross Count: 3549
+  密码: ['w1nd0ws', 'windows', 'windows', '8868888666', 'g00dluck2', '9569595666']
+
+排名 12: test_15_482     | SubGrammar: 15 | 测试编号: 482  | Cross Count: 3542
+  密码: ['goodluck2', 'b0yflflfl9/88', 'w1nd0ws', 'sysysysysysy', '9569595666', 'windows']
+
+排名 13: test_15_930     | SubGrammar: 15 | 测试编号: 930  | Cross Count: 3523
+  密码: ['9569595666', 'GHGHGHGHGHGH', 'n4sn0n0n06/95', '8868888666', 'windows', 'g00dluck6']
+
+排名 14: test_5_51       | SubGrammar: 5  | 测试编号: 51   | Cross Count: 3510
+  密码: ['ememem123456', 'Windows', 'QQQQQQ', 'windows', 'SAVA10', 'EMEMEMEMEMEM']
+
+排名 15: test_1_913      | SubGrammar: 1  | 测试编号: 913  | Cross Count: 3507
+  密码: ['32010143to', 'windows', 'kindred', 'ghghghghghgh', 'Kindred', 'SyEagle24']
+
+排名 16: test_15_967     | SubGrammar: 15 | 测试编号: 967  | Cross Count: 3502
+  密码: ['9559595555', 'windows', 'WINDOWS', 'Windows', '9529595222', '8748787444']
+
+排名 17: test_1_848      | SubGrammar: 1  | 测试编号: 848  | Cross Count: 3501
+  密码: ['ComeJJJ1', 'Kindred', 'je4gle24', 'windows', 'WINDOWS', 'QQQQQQ']
+
+排名 18: test_1_217      | SubGrammar: 1  | 测试编号: 217  | Cross Count: 3500
+  密码: ['Windows', 'cometototo3', 'windows', 'WINDOWS', 'inininininin', 'KINDRED']
+
+排名 19: test_1_452      | SubGrammar: 1  | 测试编号: 452  | Cross Count: 3491
+  密码: ['Windows', 'SYSYSYSYSYSY', 'QEagle20', 'TOTOTOTOTOTO', 'kindred', 'windows']
+
+排名 20: test_15_335     | SubGrammar: 15 | 测试编号: 335  | Cross Count: 3476
+  密码: ['NASATATAT0/88', '9519595111', '9599595999', 'Windows', 'Windows', 'windows']
+
+排名 21: test_15_783     | SubGrammar: 15 | 测试编号: 783  | Cross Count: 3436
+  密码: ['windows', 'T0T0b0y', '9559595555', 'w1ndows', '9599595999', 'wind0ws']
+
+排名 22: test_15_16      | SubGrammar: 15 | 测试编号: 16   | Cross Count: 3431
+  密码: ['wwwwww', 'goodluck5', 't0t0t0t0t0t0', 'windows', '9559595555', '8898888999']
+
+排名 23: test_1_916      | SubGrammar: 1  | 测试编号: 916  | Cross Count: 3431
+  密码: ['ATATATATATAT', 'windows', 'Windows', 'KINDRED', 'InEagle20', 'TOTOTOTOTOTO']
+
+排名 24: test_5_38       | SubGrammar: 5  | 测试编号: 38   | Cross Count: 3420
+  密码: ['sava10', 'WINDOWS', 'w1nd0ws', 'totototototo', 'windows', 'sysysysysysy']
+
+排名 25: test_1_76       | SubGrammar: 1  | 测试编号: 76   | Cross Count: 3412
+  密码: ['windows', 'qqqqqq', 'c0mepspsps5', 'QQQQQQ', 'kindred', '320101431n']
+
+排名 26: test_15_334     | SubGrammar: 15 | 测试编号: 334  | Cross Count: 3403
+  密码: ['/', '9569595666', 'windows', 'windows', 'TyTyTyTyTyTy', '9559595555']
+
+排名 27: test_1_946      | SubGrammar: 1  | 测试编号: 946  | Cross Count: 3395
+  密码: ['KINDRED', 'Kindred', 'w1ndows', '820101484t', 'windows', 'com3pspsps3']
+
+排名 28: test_1_516      | SubGrammar: 1  | 测试编号: 516  | Cross Count: 3383
+  密码: ['com34t4t4t2', 'pseagle24', '124101411n', 'Kindred', 'kindred', 'windows']
+
+排名 29: test_5_14       | SubGrammar: 5  | 测试编号: 14   | Cross Count: 3375
+  密码: ['goodluck2', 'sava10', 'windows', 's4v410', 'ghghghghghgh', 'Windows']
+
+排名 30: test_1_23       | SubGrammar: 1  | 测试编号: 23   | Cross Count: 3374
+  密码: ['SYSYSYSYSYSY', '02010140Q', 'windows', 'bbbbbb', 'WINDOWS', 'KINDRED']
+
+排名 31: test_15_492     | SubGrammar: 15 | 测试编号: 492  | Cross Count: 3353
+  密码: ['WINDOWS', 'windows', 'Windows', 'qqnas', 'n4swww2/88', '9599595999']
+
+排名 32: test_15_816     | SubGrammar: 15 | 测试编号: 816  | Cross Count: 3353
+  密码: ['8858888555', 'Goodluck1', 'b0yt0t0t06/88', 'windows', '9519595111', '8768787666']
+
+排名 33: test_5_810      | SubGrammar: 5  | 测试编号: 810  | Cross Count: 3347
+  密码: ['windows', 'QQQQQQ', 'Windows', 'windows', 'WINDOWS', 'Sava10']
+
+排名 34: test_1_66       | SubGrammar: 1  | 测试编号: 66   | Cross Count: 3342
+  密码: ['kindred', 'windows', 'Windows', 'AtAtAtAtAtAt', 'ComeSySySy2', 'QEagle20']
+
+排名 35: test_15_942     | SubGrammar: 15 | 测试编号: 942  | Cross Count: 3340
+  密码: ['9569595666', 'n4suuu6/95', 'JJJJJJ', 'windows', 'WINDOWS', 'bybybybybyby']
+
+排名 36: test_1_783      | SubGrammar: 1  | 测试编号: 783  | Cross Count: 3339
+  密码: ['kindred', 'windows', 'JJJJJJ', '4t4t4t4t4t4t', 'atatatatatat', 'windows']
+
+排名 37: test_5_802      | SubGrammar: 5  | 测试编号: 802  | Cross Count: 3329
+  密码: ['WINDOWS', 'goodluck2', 'Goodluck1', 's4v410', 'windows', 'Sava10']
+
+排名 38: test_1_407      | SubGrammar: 1  | 测试编号: 407  | Cross Count: 3320
+  密码: ['windows', 'JEAGLE20', 'Windows', '4t4t4t4t4t4t', 'kindred', '32410143in']
+
+排名 39: test_1_635      | SubGrammar: 1  | 测试编号: 635  | Cross Count: 3308
+  密码: ['windows', 'kindred', 'ckckckckckck', 'JEAGLE24', '32410143sy', 'Kindred']
+
+排名 40: test_5_753      | SubGrammar: 5  | 测试编号: 753  | Cross Count: 3307
+  密码: ['Windows', 'windows', 'sava10', '/', 'goodluck1', 'WWWWWW']
+
+排名 41: test_15_326     | SubGrammar: 15 | 测试编号: 326  | Cross Count: 3306
+  密码: ['FLFLFLFLFLFL', 'GOODLUCK2', '8898888999', 'BoyAtAtAt2/87', 'windows', 'Windows']
+
+排名 42: test_15_247     | SubGrammar: 15 | 测试编号: 247  | Cross Count: 3305
+  密码: ['8828888222', 'WINDOWS', 'windows', '8898888999', 'ghghghghghgh', 'windows']
+
+排名 43: test_15_642     | SubGrammar: 15 | 测试编号: 642  | Cross Count: 3305
+  密码: ['windows', 'GOODLUCK2', '8858888555', '9519595111', 'windows', 'QQNAS']
+
+排名 44: test_1_796      | SubGrammar: 1  | 测试编号: 796  | Cross Count: 3304
+  密码: ['jeagle20', '324101434t', 'Windows', 'Kindred', '!', 'windows']
+
+排名 45: test_1_487      | SubGrammar: 1  | 测试编号: 487  | Cross Count: 3303
+  密码: ['JJJJJJ', '124101411n', 'windows', 'sysysysysysy', 'Kindred', 'comeononon0']
+
+排名 46: test_15_222     | SubGrammar: 15 | 测试编号: 222  | Cross Count: 3297
+  密码: ['g00dluck2', 'jjb0y', 'NASTOTOTO5/95', '8898888999', 'windows', '9599595999']
+
+排名 47: test_7_962      | SubGrammar: 7  | 测试编号: 962  | Cross Count: 3276
+  密码: ['JJJJJJ', 'Kindred', '9569595666', 'kindred', 'QQQ123456', '8858888555']
+
+排名 48: test_13_728     | SubGrammar: 13 | 测试编号: 728  | Cross Count: 3275
+  密码: ['22010142he', 'windows', 'goodluck1', 'WINDOWS', 'lololo123456', 'goodluck2']
+
+排名 49: test_15_570     | SubGrammar: 15 | 测试编号: 570  | Cross Count: 3271
+  密码: ['9559595555', 'flflflflflfl', 'windows', '8758787555', 'GhGhNas', 'WINDOWS']
+
+排名 50: test_5_826      | SubGrammar: 5  | 测试编号: 826  | Cross Count: 3269
+  密码: ['hehehe123456', 'windows', 'Windows', 'NASHEHEHE6/87', 'GOODLUCK6', 'QQQQQQ']
+

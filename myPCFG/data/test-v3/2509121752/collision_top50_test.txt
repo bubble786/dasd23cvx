@@ -1,0 +1,155 @@
+处理时间: 2025-09-12 17:54:42
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_13_692     | SubGrammar: 13 | 测试编号: 692  | Cross Count: 4987
+  密码: ['BB06111990B', 'ee06111990e', 'bb06111990qwerty', 'ww06111990w', 'AA06111990A', 'AA06111990QWERTY']
+
+排名 2 : test_3_1014     | SubGrammar: 3  | 测试编号: 1014 | Cross Count: 4813
+  密码: ['WW06111990W', 'honor', 'SS06111990QWERTY', 'AA06111990A', 'aa06111990a', 'bb06111990b']
+
+排名 3 : test_3_192      | SubGrammar: 3  | 测试编号: 192  | Cross Count: 4812
+  密码: ['AA06111990QWERTY', 'AA06111990A', 'ww06111990w', 'bb06111990123', 'aa06111990a', 'WW06111990W']
+
+排名 4 : test_0_345      | SubGrammar: 0  | 测试编号: 345  | Cross Count: 4794
+  密码: ['aa06111990', 'AA06111990A', 'ww06111990w', 'ss06111990s', 'bb06111990b', 'bb06111990']
+
+排名 5 : test_5_664      | SubGrammar: 5  | 测试编号: 664  | Cross Count: 4704
+  密码: ['AA06111990QWERTY', 'bb06111990', 'bb06111990b', 'aa06111990qwerty', 'aa06111990a', 'QQ06111990Q']
+
+排名 6 : test_14_339     | SubGrammar: 14 | 测试编号: 339  | Cross Count: 4690
+  密码: ['BB06111990QWERTY', 'bb06111990b', 'BCRAZE1231', 'BB06111990B', 'aa06111990a', 'AA06111990QWERTY']
+
+排名 7 : test_3_44       | SubGrammar: 3  | 测试编号: 44   | Cross Count: 4687
+  密码: ['WW06111990W', 'bb06111990b', 'aa06111990qwerty', 'honor', 'BB06111990B', 'AA06111990123']
+
+排名 8 : test_3_925      | SubGrammar: 3  | 测试编号: 925  | Cross Count: 4673
+  密码: ['AA06111990A', 'ww06111990qwerty', 'AA06111990QWERTY', 'WW06111990W', 'aa06111990qwerty', 'BB06111990QWERTY']
+
+排名 9 : test_3_43       | SubGrammar: 3  | 测试编号: 43   | Cross Count: 4661
+  密码: ['BB06111990B', 'bb06111990b', 'meme06111990me', 'bb06111990qwerty', 'aa06111990a', 'HONOR']
+
+排名 10: test_3_282      | SubGrammar: 3  | 测试编号: 282  | Cross Count: 4623
+  密码: ['BB06111990B', '-', 'aa06111990a', 'BB06111990QWERTY', 'ww06111990w', 'HONOR']
+
+排名 11: test_13_193     | SubGrammar: 13 | 测试编号: 193  | Cross Count: 4569
+  密码: ['WW0611199015', 'AA06111990A', 'bb06111990b', 'dd0611199015', 'BB06111990B', 'aa06111990a']
+
+排名 12: test_7_65       | SubGrammar: 7  | 测试编号: 65   | Cross Count: 4549
+  密码: ['AA06111990', 'BB06111990', 'AA06111990QWERTY', 'ee06111990e', 'BB06111990B', 'WW06111990W']
+
+排名 13: test_7_728      | SubGrammar: 7  | 测试编号: 728  | Cross Count: 4542
+  密码: ['MYMY06111990QWERTY', 'AA06111990A', 'BB06111990B', 'ww06111990w', 'bb06111990b', 'EE06111990QWERTY']
+
+排名 14: test_3_738      | SubGrammar: 3  | 测试编号: 738  | Cross Count: 4517
+  密码: ['AA06111990A', 'WW06111990W', 'WW06111990123', 'HONOR', 'BB06111990B', 'ww06111990w']
+
+排名 15: test_5_969      | SubGrammar: 5  | 测试编号: 969  | Cross Count: 4512
+  密码: ['bb06111990', 'bb06111990b', 'aa06111990qwerty', 'kate12388', 'AA06111990QWERTY', 'AA06111990A']
+
+排名 16: test_7_301      | SubGrammar: 7  | 测试编号: 301  | Cross Count: 4508
+  密码: ['ee06111990', 'bb06111990qwerty', 'ww06111990qwerty', 'BB06111990B', 'bb06111990b', 'EE06111990E']
+
+排名 17: test_7_20       | SubGrammar: 7  | 测试编号: 20   | Cross Count: 4498
+  密码: ['EE06111990', 'bb06111990b', 'ww06111990w', 'aa06111990qwerty', 'EE06111990E', 'WW06111990W']
+
+排名 18: test_7_126      | SubGrammar: 7  | 测试编号: 126  | Cross Count: 4492
+  密码: ['bb06111990', 'BB06111990', 'bb06111990qwerty', 'AA06111990QWERTY', 'aa06111990a', 'ee06111990qwerty']
+
+排名 19: test_7_536      | SubGrammar: 7  | 测试编号: 536  | Cross Count: 4461
+  密码: ['ee06111990e', 'WW06111990W', 'com1coma', 'aa06111990a', 'aa06111990qwerty', 'BB06111990B']
+
+排名 20: test_3_442      | SubGrammar: 3  | 测试编号: 442  | Cross Count: 4460
+  密码: ['BB06111990B', 'aa06111990qwerty', 'WW06111990W', 'bb06111990qwerty', 'qq06111990qwerty', 'honor']
+
+排名 21: test_3_264      | SubGrammar: 3  | 测试编号: 264  | Cross Count: 4423
+  密码: ['ww06111990w', 'BB06111990B', 'honor', 'HONOR', 'bb06111990b', 'QQ06111990QWERTY']
+
+排名 22: test_0_43       | SubGrammar: 0  | 测试编号: 43   | Cross Count: 4419
+  密码: ['bb06111990b', 'ee0611199015', 'aa06111990a', 'ww06111990w', 'WW06111990W', 'dd06111990d']
+
+排名 23: test_0_872      | SubGrammar: 0  | 测试编号: 872  | Cross Count: 4418
+  密码: ['dd06111990123', 'AA06111990A', 'BB06111990B', 'WW06111990W', 'BB06111990', 'AA06111990QWERTY']
+
+排名 24: test_3_781      | SubGrammar: 3  | 测试编号: 781  | Cross Count: 4415
+  密码: ['bb06111990b', 'BB06111990B', 'QQ06111990QWERTY', 'AA06111990A', 'AA06111990123', 'HONOR']
+
+排名 25: test_7_111      | SubGrammar: 7  | 测试编号: 111  | Cross Count: 4408
+  密码: ['WW06111990QWERTY', 'aa06111990a', 'WW06111990', 'EE06111990E', 'ww06111990w', 'BB06111990B']
+
+排名 26: test_0_702      | SubGrammar: 0  | 测试编号: 702  | Cross Count: 4397
+  密码: ['bb06111990b', 'aa06111990', 'BB06111990B', 'aa06111990a', 'QQ06111990', 'bb0611199015']
+
+排名 27: test_5_936      | SubGrammar: 5  | 测试编号: 936  | Cross Count: 4395
+  密码: ['aa06111990a', 'AA06111990A', 'BB06111990B', 'qq06111990qwerty', 'bb06111990qwerty', 'KATE2088']
+
+排名 28: test_7_904      | SubGrammar: 7  | 测试编号: 904  | Cross Count: 4392
+  密码: ['AA06111990QWERTY', 'BB06111990B', 'EE06111990E', 'ss06111990', 'aa06111990', 'bb06111990b']
+
+排名 29: test_3_426      | SubGrammar: 3  | 测试编号: 426  | Cross Count: 4371
+  密码: ['BB06111990QWERTY', 'aa06111990a', 'QQ06111990QWERTY', 'ww06111990w', 'honor', 'AA06111990QWERTY']
+
+排名 30: test_3_460      | SubGrammar: 3  | 测试编号: 460  | Cross Count: 4370
+  密码: ['aa06111990a', 'AA06111990A', 'bb06111990b', 'BB06111990123', 'WW06111990QWERTY', 'QQ06111990Q']
+
+排名 31: test_7_205      | SubGrammar: 7  | 测试编号: 205  | Cross Count: 4350
+  密码: ['AA06111990', 'BB06111990', 'EE06111990E', 'ww06111990w', 'aa06111990qwerty', 'AA06111990QWERTY']
+
+排名 32: test_3_590      | SubGrammar: 3  | 测试编号: 590  | Cross Count: 4349
+  密码: ['AA06111990A', 'bb06111990qwerty', 'honor', 'HONOR', 'bb06111990b', 'qq06111990q']
+
+排名 33: test_5_988      | SubGrammar: 5  | 测试编号: 988  | Cross Count: 4344
+  密码: ['BB06111990B', 'BB06111990B', 'AA06111990', 'bb06111990', 'AA06111990QWERTY', 'bb06111990b']
+
+排名 34: test_3_841      | SubGrammar: 3  | 测试编号: 841  | Cross Count: 4339
+  密码: ['aa06111990qwerty', 'bb06111990b', 'honor', 'ww06111990qwerty', 'QQ06111990123', 'aa06111990a']
+
+排名 35: test_3_759      | SubGrammar: 3  | 测试编号: 759  | Cross Count: 4332
+  密码: ['AA06111990QWERTY', 'bb06111990b', 'WW06111990QWERTY', 'WW06111990QWERTY', 'BB06111990B', 'ww06111990w']
+
+排名 36: test_14_397     | SubGrammar: 14 | 测试编号: 397  | Cross Count: 4328
+  密码: ['ss06111990qwerty', 'AA06111990A', 'aa06111990qwerty', 'bb06111990b', 'byby06111990qwerty', 'aa06111990a']
+
+排名 37: test_7_332      | SubGrammar: 7  | 测试编号: 332  | Cross Count: 4325
+  密码: ['aa06111990a', 'bb06111990', 'COM3COME', 'SS06111990S', 'bb06111990b', 'BB06111990B']
+
+排名 38: test_9_555      | SubGrammar: 9  | 测试编号: 555  | Cross Count: 4315
+  密码: ['bb06111990b', 'D06111990DD', 'FRIEN10', 'BB06111990B', 'dd06111990d', 'AA06111990']
+
+排名 39: test_13_945     | SubGrammar: 13 | 测试编号: 945  | Cross Count: 4311
+  密码: ['AA06111990QWERTY', 'aa06111990qwerty', 'ill2illi', 'BB06111990B', 'ww06111990w', 'BB06111990QWERTY']
+
+排名 40: test_3_594      | SubGrammar: 3  | 测试编号: 594  | Cross Count: 4310
+  密码: ['aa06111990qwerty', 'toto06111990123', 'bb06111990b', 'AA06111990A', 'ww06111990123', 'BB06111990B']
+
+排名 41: test_3_520      | SubGrammar: 3  | 测试编号: 520  | Cross Count: 4307
+  密码: ['HONOR', 'WW06111990123', 'WW06111990QWERTY', 'BB06111990B', 'WW06111990W', 'bb06111990b']
+
+排名 42: test_1_769      | SubGrammar: 1  | 测试编号: 769  | Cross Count: 4305
+  密码: ['FRIEN10', 'BB06111990B', 'bb06111990b', 'gg06111990123', 'frien10', 'aa06111990123']
+
+排名 43: test_7_219      | SubGrammar: 7  | 测试编号: 219  | Cross Count: 4300
+  密码: ['AA06111990QWERTY', 'WW06111990W', 'aa06111990', 'WW06111990QWERTY', 'ww06111990w', 'EE06111990E']
+
+排名 44: test_3_3        | SubGrammar: 3  | 测试编号: 3    | Cross Count: 4284
+  密码: ['QQ06111990Q', 'honor', 'bb06111990qwerty', 'aa06111990a', 'aa06111990qwerty', 'AA06111990QWERTY']
+
+排名 45: test_0_341      | SubGrammar: 0  | 测试编号: 341  | Cross Count: 4282
+  密码: ['AA06111990QWERTY', 'BB06111990123', 'bb06111990b', 'WW06111990W', 'qq06111990123', 'BB06111990B']
+
+排名 46: test_7_747      | SubGrammar: 7  | 测试编号: 747  | Cross Count: 4279
+  密码: ['ww06111990qwerty', 'ee06111990e', 'bb06111990b', 'ww06111990w', 'ss06111990s', 'AA06111990QWERTY']
+
+排名 47: test_3_129      | SubGrammar: 3  | 测试编号: 129  | Cross Count: 4267
+  密码: ['HONOR', 'aa06111990qwerty', 'II06111990QWERTY', 'AA06111990QWERTY', 'bb06111990b', 'bb06111990qwerty']
+
+排名 48: test_3_512      | SubGrammar: 3  | 测试编号: 512  | Cross Count: 4265
+  密码: ['AA06111990QWERTY', 'honor', 'AA06111990A', 'HONOR', 'ww06111990w', 'WW06111990QWERTY']
+
+排名 49: test_14_970     | SubGrammar: 14 | 测试编号: 970  | Cross Count: 4264
+  密码: ['aa06111990qwerty', 'aa0611199015', 'BB06111990123', 'bb06111990b', 'WW06111990W', 'bb06111990qwerty']
+
+排名 50: test_14_159     | SubGrammar: 14 | 测试编号: 159  | Cross Count: 4259
+  密码: ['PP06111990P', 'aa06111990a', 'AA06111990A', 'AA06111990QWERTY', 'AA06111990123', 'BB06111990B']
+

@@ -1,0 +1,155 @@
+处理时间: 2025-07-14 17:47:09
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_5_109      | SubGrammar: 5  | 测试编号: 109  | Cross Count: 12996
+  密码: ['hidden1', '!', 'sabbath', '.', 'sabbath', 'nathan1']
+
+排名 2 : test_5_572      | SubGrammar: 5  | 测试编号: 572  | Cross Count: 12887
+  密码: ['!', 'sabbath', 'sake120', 'sabbath', '.', 'nathan1']
+
+排名 3 : test_5_931      | SubGrammar: 5  | 测试编号: 931  | Cross Count: 12875
+  密码: ['sabbath', '.', 'sabbath', '!', 'nathan1', 'sabbath']
+
+排名 4 : test_5_177      | SubGrammar: 5  | 测试编号: 177  | Cross Count: 12746
+  密码: ['!', ' ', 'nathan1', 'sabbath', 'sabbath', 'sabbath']
+
+排名 5 : test_13_903     | SubGrammar: 13 | 测试编号: 903  | Cross Count: 12309
+  密码: ['sabbath', 'nathan1', 'sabbath', '!', '*', 'sabbath']
+
+排名 6 : test_13_743     | SubGrammar: 13 | 测试编号: 743  | Cross Count: 12285
+  密码: ['nathan1', '!', 'sabbath', 'killer1', 'sabbath', 'nathan6']
+
+排名 7 : test_5_896      | SubGrammar: 5  | 测试编号: 896  | Cross Count: 12226
+  密码: ['!', 'sabbath', 'nathan1', 'hidden1', 'sabbath', 'sabbath']
+
+排名 8 : test_13_818     | SubGrammar: 13 | 测试编号: 818  | Cross Count: 12226
+  密码: ['sabbath', '!', 'hidden1', 'nathan1', 'sabbath', 's4bbath']
+
+排名 9 : test_13_918     | SubGrammar: 13 | 测试编号: 918  | Cross Count: 12226
+  密码: ['sabbath', 'nathan1', '!', 'sabbath', 'hidden1', 'sabbath']
+
+排名 10: test_13_919     | SubGrammar: 13 | 测试编号: 919  | Cross Count: 12226
+  密码: ['!', 'hidden1', 'sabbath', 'nathan1', 'sabbath', 'sabbath']
+
+排名 11: test_13_880     | SubGrammar: 13 | 测试编号: 880  | Cross Count: 12221
+  密码: ['sabbath', 'sabbath', '!', 'killer1', 'nathan1', 'sabbath']
+
+排名 12: test_13_535     | SubGrammar: 13 | 测试编号: 535  | Cross Count: 12130
+  密码: ['nathan1', '!', 'NATHAN1', 'sabbath', 'sabbath', 'sabbath']
+
+排名 13: test_5_193      | SubGrammar: 5  | 测试编号: 193  | Cross Count: 12114
+  密码: ['!', 'killer7', 'Sabbath', 'sabbath', 'nathan1', 'sabbath']
+
+排名 14: test_13_413     | SubGrammar: 13 | 测试编号: 413  | Cross Count: 12112
+  密码: ['!', 'sabbath', 'hidden7', 'sabbath', 'sabbath', 'nathan1']
+
+排名 15: test_5_606      | SubGrammar: 5  | 测试编号: 606  | Cross Count: 12106
+  密码: ['!', 'sabbath', 'killer3', 'sabbath', 'nathan1', 'sabbath']
+
+排名 16: test_5_121      | SubGrammar: 5  | 测试编号: 121  | Cross Count: 12101
+  密码: ['sabbath', 'sabbath', '!', 'sabbath', 'sabbath', 'nathan1']
+
+排名 17: test_5_273      | SubGrammar: 5  | 测试编号: 273  | Cross Count: 12101
+  密码: ['sabbath', 'sabbath', 'nathan1', 'sabbath', '!', 'sabbath']
+
+排名 18: test_5_526      | SubGrammar: 5  | 测试编号: 526  | Cross Count: 12101
+  密码: ['!', 'sabbath', 'sabbath', 'nathan1', 'sabbath', 'sabbath']
+
+排名 19: test_5_546      | SubGrammar: 5  | 测试编号: 546  | Cross Count: 12101
+  密码: ['sabbath', 'sabbath', 'sabbath', 'nathan1', '!', 'sabbath']
+
+排名 20: test_5_554      | SubGrammar: 5  | 测试编号: 554  | Cross Count: 12101
+  密码: ['sabbath', 'nathan1', 'sabbath', 'sabbath', '!', 'sabbath']
+
+排名 21: test_5_759      | SubGrammar: 5  | 测试编号: 759  | Cross Count: 12101
+  密码: ['sabbath', 'sabbath', 'nathan1', 'sabbath', '!', 'sabbath']
+
+排名 22: test_5_827      | SubGrammar: 5  | 测试编号: 827  | Cross Count: 12101
+  密码: ['sabbath', 'nathan1', 'sabbath', '!', 'sabbath', 'sabbath']
+
+排名 23: test_5_900      | SubGrammar: 5  | 测试编号: 900  | Cross Count: 12101
+  密码: ['!', 'sabbath', 'sabbath', 'sabbath', 'nathan1', 'sabbath']
+
+排名 24: test_13_47      | SubGrammar: 13 | 测试编号: 47   | Cross Count: 12101
+  密码: ['nathan1', '!', 'SABBATH', 'sabbath', 'sabbath', 'sabbath']
+
+排名 25: test_13_358     | SubGrammar: 13 | 测试编号: 358  | Cross Count: 12101
+  密码: ['sabbath', 'nathan1', 'sabbath', 'sabbath', '!', 'sabbath']
+
+排名 26: test_13_432     | SubGrammar: 13 | 测试编号: 432  | Cross Count: 12101
+  密码: ['sabbath', 'nathan1', 'sabbath', '!', 'sabbath', 'sabbath']
+
+排名 27: test_13_460     | SubGrammar: 13 | 测试编号: 460  | Cross Count: 12101
+  密码: ['sabbath', 'nathan1', 'sabbath', 'sabbath', '!', 'sabbath']
+
+排名 28: test_13_833     | SubGrammar: 13 | 测试编号: 833  | Cross Count: 12101
+  密码: ['nathan1', 'sabbath', 'sabbath', 'sabbath', '!', 'sabbath']
+
+排名 29: test_8_720      | SubGrammar: 8  | 测试编号: 720  | Cross Count: 11716
+  密码: ['SABBATH', 'siddiq2', 'sabbath', '!', 'jasper1', ' ']
+
+排名 30: test_8_269      | SubGrammar: 8  | 测试编号: 269  | Cross Count: 11701
+  密码: ['sabbath', '!', 'jasper1', 'sabbath', ' ', 'sabbath']
+
+排名 31: test_13_239     | SubGrammar: 13 | 测试编号: 239  | Cross Count: 11607
+  密码: ['-', '.', '!', 'nathan3', 'sabbath', 'sabbath']
+
+排名 32: test_8_57       | SubGrammar: 8  | 测试编号: 57   | Cross Count: 11366
+  密码: ['jasper1', 'sabbath', '!', 'sabbath', '#', 'sabbath']
+
+排名 33: test_8_479      | SubGrammar: 8  | 测试编号: 479  | Cross Count: 11309
+  密码: ['sabbath', 'jasper2', '!', '.', 'sabb4th', 'sabbath']
+
+排名 34: test_5_189      | SubGrammar: 5  | 测试编号: 189  | Cross Count: 11185
+  密码: ['sabbath', 'sabbath', '*', 'jasper1', '!', 'sabbath']
+
+排名 35: test_5_309      | SubGrammar: 5  | 测试编号: 309  | Cross Count: 11161
+  密码: ['!', 'sabbath', 'sabbath', 'sabbath', '.', 'jasper8']
+
+排名 36: test_4_804      | SubGrammar: 4  | 测试编号: 804  | Cross Count: 11121
+  密码: ['sabbath', '!', 'sabbath', '_', 'sabbath', 'jasper1']
+
+排名 37: test_4_233      | SubGrammar: 4  | 测试编号: 233  | Cross Count: 11102
+  密码: ['killer5', 'hidden8', 'sabbath', 'sabbath', '.', '!']
+
+排名 38: test_5_789      | SubGrammar: 5  | 测试编号: 789  | Cross Count: 11091
+  密码: ['.', 'sabbath', '!', 'sabbath', 'killer3', 'sabbath']
+
+排名 39: test_8_970      | SubGrammar: 8  | 测试编号: 970  | Cross Count: 11084
+  密码: ['.', 'sabbath', 'sabbath', 'sabbath', '!', 'sabbath']
+
+排名 40: test_12_78      | SubGrammar: 12 | 测试编号: 78   | Cross Count: 11084
+  密码: ['sabbath', 'sabbath', '!', '.', 'sabbath', 'sabbath']
+
+排名 41: test_12_339     | SubGrammar: 12 | 测试编号: 339  | Cross Count: 11084
+  密码: ['sabbath', 'sabbath', '.', '!', 'sabbath', 'sabbath']
+
+排名 42: test_12_531     | SubGrammar: 12 | 测试编号: 531  | Cross Count: 11084
+  密码: ['.', 'sabbath', 'sabbath', '!', 'sabbath', 'sabbath']
+
+排名 43: test_12_848     | SubGrammar: 12 | 测试编号: 848  | Cross Count: 11084
+  密码: ['sabbath', '!', 'sabbath', '.', 'sabbath', 'sabbath']
+
+排名 44: test_8_801      | SubGrammar: 8  | 测试编号: 801  | Cross Count: 11083
+  密码: ['jasper1', 'sabbath', 'jasper2', 'siddiq5', '!', 'sabbath']
+
+排名 45: test_8_370      | SubGrammar: 8  | 测试编号: 370  | Cross Count: 11081
+  密码: ['jasper1', 'sabbath', '!', 'jasper2', 'sabbath', 'sabbath']
+
+排名 46: test_8_464      | SubGrammar: 8  | 测试编号: 464  | Cross Count: 11018
+  密码: ['jasper1', 'jasper1', '!', 'sabbath', 'siddiq1', 'sabbath']
+
+排名 47: test_8_977      | SubGrammar: 8  | 测试编号: 977  | Cross Count: 11018
+  密码: ['jasper1', 'as1mygof1onit', 'sabbath', 'siddiq1', '!', 'sabbath']
+
+排名 48: test_8_621      | SubGrammar: 8  | 测试编号: 621  | Cross Count: 10996
+  密码: ['jasper1', 'sabbath', 'jasper8', '!', 'sabbath', 'sabbath']
+
+排名 49: test_8_242      | SubGrammar: 8  | 测试编号: 242  | Cross Count: 10991
+  密码: ['jasper6', 'sabbath', 'sabbath', '!', 'jasper1', 'sabbath']
+
+排名 50: test_8_349      | SubGrammar: 8  | 测试编号: 349  | Cross Count: 10981
+  密码: [',', 'sabbath', 'jasper1', 'SABBATH', 'sabbath', '!']
+

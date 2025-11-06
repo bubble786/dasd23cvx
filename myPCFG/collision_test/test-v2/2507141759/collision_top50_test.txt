@@ -1,0 +1,155 @@
+处理时间: 2025-07-14 18:00:56
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_12_66      | SubGrammar: 12 | 测试编号: 66   | Cross Count: 12406
+  密码: ['sabbath', '!', '#', 'saleen', 'azerty', 'saleen']
+
+排名 2 : test_12_719     | SubGrammar: 12 | 测试编号: 719  | Cross Count: 12399
+  密码: ['!', 'saleen', ' ', 'azerty', 'sabbath', 'sabbath']
+
+排名 3 : test_12_196     | SubGrammar: 12 | 测试编号: 196  | Cross Count: 12240
+  密码: ['sabbath', '!', 'SABBATH', 'azerty', 'sinksinkme', 'saleen']
+
+排名 4 : test_12_389     | SubGrammar: 12 | 测试编号: 389  | Cross Count: 12239
+  密码: ['sabbath', '!', 'azerty', 'azerty', 'SABBATH', 'saleen']
+
+排名 5 : test_9_942      | SubGrammar: 9  | 测试编号: 942  | Cross Count: 12238
+  密码: ['!', 'azerty', 'saleen', 'saleen', 'AZERTY', 'sabbath']
+
+排名 6 : test_12_264     | SubGrammar: 12 | 测试编号: 264  | Cross Count: 12237
+  密码: ['Azerty', 's4bbath', '!', 'azerty', 'saleen', 'sabbath']
+
+排名 7 : test_12_532     | SubGrammar: 12 | 测试编号: 532  | Cross Count: 12229
+  密码: ['saleen', 'azerty', 'azerty', '!', 'minisinkam', 'sabbath']
+
+排名 8 : test_9_28       | SubGrammar: 9  | 测试编号: 28   | Cross Count: 12228
+  密码: ['!', 'sabbath', 'azerty', 'azerty', 'sabbath', 'saleen']
+
+排名 9 : test_9_76       | SubGrammar: 9  | 测试编号: 76   | Cross Count: 12228
+  密码: ['azerty', 'azerty', 'sabbath', 'sabbath', '!', 'saleen']
+
+排名 10: test_9_100      | SubGrammar: 9  | 测试编号: 100  | Cross Count: 12228
+  密码: ['saleen', 'azerty', 'sabbath', 'saleen', 'sabbath', '!']
+
+排名 11: test_9_288      | SubGrammar: 9  | 测试编号: 288  | Cross Count: 12228
+  密码: ['saleen', 'azerty', 'sabbath', 'saleen', '!', 'saleen']
+
+排名 12: test_9_576      | SubGrammar: 9  | 测试编号: 576  | Cross Count: 12228
+  密码: ['sabbath', 'azerty', '!', 'saleen', 'saleen', 'azerty']
+
+排名 13: test_9_580      | SubGrammar: 9  | 测试编号: 580  | Cross Count: 12228
+  密码: ['saleen', 'saleen', 'sabbath', '!', 'azerty', 'sabbath']
+
+排名 14: test_9_596      | SubGrammar: 9  | 测试编号: 596  | Cross Count: 12228
+  密码: ['sabbath', 'sabbath', 'saleen', 'saleen', 'azerty', '!']
+
+排名 15: test_9_658      | SubGrammar: 9  | 测试编号: 658  | Cross Count: 12228
+  密码: ['!', 'saleen', 'azerty', 'saleen', 'azerty', 'sabbath']
+
+排名 16: test_9_792      | SubGrammar: 9  | 测试编号: 792  | Cross Count: 12228
+  密码: ['sabbath', 'azerty', 'saleen', 'sabbath', 'azerty', '!']
+
+排名 17: test_9_836      | SubGrammar: 9  | 测试编号: 836  | Cross Count: 12228
+  密码: ['saleen', 'sabbath', 'azerty', 'saleen', '!', 'saleen']
+
+排名 18: test_9_891      | SubGrammar: 9  | 测试编号: 891  | Cross Count: 12228
+  密码: ['saleen', 'azerty', 'sabbath', '!', 'saleen', 'azerty']
+
+排名 19: test_12_18      | SubGrammar: 12 | 测试编号: 18   | Cross Count: 12228
+  密码: ['sabbath', 'saleen', 'sabbath', 'azerty', 'sabbath', '!']
+
+排名 20: test_12_84      | SubGrammar: 12 | 测试编号: 84   | Cross Count: 12228
+  密码: ['sabbath', 'saleen', 'azerty', 'azerty', 'sabbath', '!']
+
+排名 21: test_12_173     | SubGrammar: 12 | 测试编号: 173  | Cross Count: 12228
+  密码: ['!', 'sabbath', 'saleen', 'azerty', 'saleen', 'saleen']
+
+排名 22: test_12_328     | SubGrammar: 12 | 测试编号: 328  | Cross Count: 12228
+  密码: ['azerty', '!', 'saleen', 'saleen', 'sabbath', 'azerty']
+
+排名 23: test_12_367     | SubGrammar: 12 | 测试编号: 367  | Cross Count: 12228
+  密码: ['azerty', '!', 'sabbath', 'azerty', 'azerty', 'saleen']
+
+排名 24: test_12_430     | SubGrammar: 12 | 测试编号: 430  | Cross Count: 12228
+  密码: ['sabbath', 'sabbath', '!', 'saleen', 'saleen', 'azerty']
+
+排名 25: test_12_434     | SubGrammar: 12 | 测试编号: 434  | Cross Count: 12228
+  密码: ['azerty', 'saleen', 'sabbath', '!', 'saleen', 'saleen']
+
+排名 26: test_12_725     | SubGrammar: 12 | 测试编号: 725  | Cross Count: 12228
+  密码: ['azerty', 'saleen', 'azerty', 'sabbath', 'azerty', '!']
+
+排名 27: test_12_769     | SubGrammar: 12 | 测试编号: 769  | Cross Count: 12228
+  密码: ['sabbath', '!', 'saleen', 'azerty', 'azerty', 'sale3N']
+
+排名 28: test_12_788     | SubGrammar: 12 | 测试编号: 788  | Cross Count: 12228
+  密码: ['sabbath', 'azerty', 'sabbath', 'saleen', 'azerty', '!']
+
+排名 29: test_12_800     | SubGrammar: 12 | 测试编号: 800  | Cross Count: 12228
+  密码: ['saleen', 'azerty', '!', 'saleen', 'sabbath', 'sabbath']
+
+排名 30: test_12_949     | SubGrammar: 12 | 测试编号: 949  | Cross Count: 12228
+  密码: ['saleen', 'sabbath', 'azerty', 'azerty', 'azerty', '!']
+
+排名 31: test_12_185     | SubGrammar: 12 | 测试编号: 185  | Cross Count: 11885
+  密码: ['saleen', '.', 'azerty', 'AZERTY', 'saleen', 'sabbath']
+
+排名 32: test_12_875     | SubGrammar: 12 | 测试编号: 875  | Cross Count: 11885
+  密码: ['sabbath', '.', 'azerty', 'saleen', 'AZERTY', 'sabbath']
+
+排名 33: test_12_557     | SubGrammar: 12 | 测试编号: 557  | Cross Count: 11880
+  密码: ['.', 'sabbath', 'azerty', 'jesa1987', 'saleen', 'saleen']
+
+排名 34: test_12_691     | SubGrammar: 12 | 测试编号: 691  | Cross Count: 11878
+  密码: ['azerty', '.', 'saleen', 'az3rty', 'sabbath', 'saleen']
+
+排名 35: test_9_276      | SubGrammar: 9  | 测试编号: 276  | Cross Count: 11875
+  密码: ['azerty', '.', 'sabbath', 'mona1020v*', 'azerty', 'saleen']
+
+排名 36: test_12_412     | SubGrammar: 12 | 测试编号: 412  | Cross Count: 11875
+  密码: ['saleen', 'azerty', 'azerty', '.', 'saleen', 'sabbath']
+
+排名 37: test_12_449     | SubGrammar: 12 | 测试编号: 449  | Cross Count: 11875
+  密码: ['sabbath', 'azerty', '.', 'azerty', 'azerty', 'saleen']
+
+排名 38: test_12_475     | SubGrammar: 12 | 测试编号: 475  | Cross Count: 11875
+  密码: ['saleen', '.', 'saleen', 'azerty', 'azerty', 'sabbath']
+
+排名 39: test_12_476     | SubGrammar: 12 | 测试编号: 476  | Cross Count: 11875
+  密码: ['azerty', '.', 'saleen', 'sabbath', 'saleen', 'sabbath']
+
+排名 40: test_12_614     | SubGrammar: 12 | 测试编号: 614  | Cross Count: 11875
+  密码: ['azerty', '.', 'saleen', 'azerty', 'sabbath', 'sinkm1nic']
+
+排名 41: test_12_832     | SubGrammar: 12 | 测试编号: 832  | Cross Count: 11875
+  密码: ['.', 'azerty', 'saleen', 'azerty', 'sabbath', 'azerty']
+
+排名 42: test_12_848     | SubGrammar: 12 | 测试编号: 848  | Cross Count: 11875
+  密码: ['sabbath', 'saleen', 'azerty', 'saleen', 'sabbath', '.']
+
+排名 43: test_12_906     | SubGrammar: 12 | 测试编号: 906  | Cross Count: 11875
+  密码: ['.', 'azerty', 'sabbath', 'saleen', 'saleen', 'sabbath']
+
+排名 44: test_6_343      | SubGrammar: 6  | 测试编号: 343  | Cross Count: 11862
+  密码: ['saleen', '!', 'saleen', 'sabbath', 'sabbath', 'superman24']
+
+排名 45: test_6_428      | SubGrammar: 6  | 测试编号: 428  | Cross Count: 11862
+  密码: ['!', '!', 'saleen', 'sabbath', 'superman24', 'saleen']
+
+排名 46: test_6_715      | SubGrammar: 6  | 测试编号: 715  | Cross Count: 11862
+  密码: ['saleen', '!', 'sabbath', 'sabbath', 'superman24', 'sabbath']
+
+排名 47: test_9_522      | SubGrammar: 9  | 测试编号: 522  | Cross Count: 11837
+  密码: [' ', 'azerty', 'saleen', 'saleen', 'sal3en', 'sabbath']
+
+排名 48: test_12_326     | SubGrammar: 12 | 测试编号: 326  | Cross Count: 11836
+  密码: ['sabbath', ' ', 'saleen', 'sabbath', 'sabbath', 'azerty']
+
+排名 49: test_12_341     | SubGrammar: 12 | 测试编号: 341  | Cross Count: 11836
+  密码: ['saleen', 'sabbath', ' ', 'sabbath', 'sabbath', 'azerty']
+
+排名 50: test_12_424     | SubGrammar: 12 | 测试编号: 424  | Cross Count: 11836
+  密码: ['azerty', 'azerty', 'saleen', 'saleen', 'sabbath', ' ']
+

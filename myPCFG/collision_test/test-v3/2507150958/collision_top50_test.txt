@@ -1,0 +1,155 @@
+处理时间: 2025-07-15 10:00:27
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_8_967      | SubGrammar: 8  | 测试编号: 967  | Cross Count: 10217
+  密码: ['sake120', 'nathan1', '!', 'gangsta1', '.', 'qwerty4']
+
+排名 2 : test_2_234      | SubGrammar: 2  | 测试编号: 234  | Cross Count: 10108
+  密码: ['nathan1', 'jacobs2', '!', 'nathan7', '.', 'gangsta1']
+
+排名 3 : test_7_851      | SubGrammar: 7  | 测试编号: 851  | Cross Count: 10068
+  密码: ['imonte7', 'gangsta1', '#', '.', 'goodluck1', '!']
+
+排名 4 : test_7_867      | SubGrammar: 7  | 测试编号: 867  | Cross Count: 10052
+  密码: ['sake120', 'goodluck1', 'jacobs1', 'gangsta1', '.', 'gangsta2']
+
+排名 5 : test_4_849      | SubGrammar: 4  | 测试编号: 849  | Cross Count: 9986
+  密码: ['!', 'glenjacobs1994', '.', 'bos20051585ajacobs.bos', 'goodluck1', 'gangsta1']
+
+排名 6 : test_8_907      | SubGrammar: 8  | 测试编号: 907  | Cross Count: 9934
+  密码: ['qwerty6', 'gangsta1', '.', 'nathan1', 'nathanaun', '!']
+
+排名 7 : test_4_619      | SubGrammar: 4  | 测试编号: 619  | Cross Count: 9932
+  密码: ['gangsta3', 'sakeibos', '.', '!', 'goodluck1', 'gangsta1']
+
+排名 8 : test_4_728      | SubGrammar: 4  | 测试编号: 728  | Cross Count: 9926
+  密码: ['gangsta1', 'goodluck7', 'com08051585ezjacobs.com', '.', 'goodluck1', '!']
+
+排名 9 : test_4_822      | SubGrammar: 4  | 测试编号: 822  | Cross Count: 9926
+  密码: ['goodluck1', 'gangsta1', 'stopboingo051585', 'goodluck1', '!', '.']
+
+排名 10: test_7_450      | SubGrammar: 7  | 测试编号: 450  | Cross Count: 9922
+  密码: ['.', 'rmonte1', 'gangsta1', '!', 'jacobs7', 'goodluck1']
+
+排名 11: test_4_296      | SubGrammar: 4  | 测试编号: 296  | Cross Count: 9868
+  密码: ['!', 'goodluck1', 'gangsta1', '.', 'glenofgeo', 'glenboingo1994']
+
+排名 12: test_7_911      | SubGrammar: 7  | 测试编号: 911  | Cross Count: 9867
+  密码: ['!', '.', 'gangsta1', 'gangsta1', '&', 'goodluck1']
+
+排名 13: test_4_43       | SubGrammar: 4  | 测试编号: 43   | Cross Count: 9848
+  密码: ['stopcogeo', '!', 'goodluck1', 'gangsta1', 'sakeboingo1994', '.']
+
+排名 14: test_4_556      | SubGrammar: 4  | 测试编号: 556  | Cross Count: 9835
+  密码: ['gangsta1', 'gangsta1', '!', '.', 'goodluck1', '.']
+
+排名 15: test_8_172      | SubGrammar: 8  | 测试编号: 172  | Cross Count: 9801
+  密码: ['james7877', '.', 'nathan1', 'QWERTY3', '!', 'gangsta1']
+
+排名 16: test_7_890      | SubGrammar: 7  | 测试编号: 890  | Cross Count: 9650
+  密码: ['!', '.', 'jacobs1', 'sakejacobs1994', 'jasper1', 'gangsta1']
+
+排名 17: test_7_385      | SubGrammar: 7  | 测试编号: 385  | Cross Count: 9568
+  密码: ['jacobs1', 'glenjacobs1994', 'gangsta1', 'jacobs1', '.', 'goodluck1']
+
+排名 18: test_2_524      | SubGrammar: 2  | 测试编号: 524  | Cross Count: 9538
+  密码: ['.', 'glenmeaunme1', 'jacobs1', 'gangsta5', 'gangsta1', '!']
+
+排名 19: test_7_515      | SubGrammar: 7  | 测试编号: 515  | Cross Count: 9494
+  密码: ['bmonte1', 'jasper1', '.', 'gangsta1', 'jacobs1', 'goodluck1']
+
+排名 20: test_7_95       | SubGrammar: 7  | 测试编号: 95   | Cross Count: 9475
+  密码: ['gangsta1', 'jacobs1', 'gangsta1', 'goodluck1', 'jacobs3', '.']
+
+排名 21: test_1_74       | SubGrammar: 1  | 测试编号: 74   | Cross Count: 9379
+  密码: ['qwerty1', 'aun08051585ijacobs.aun', 'nathan1', 'jacobs1', 'goodluck1', '.']
+
+排名 22: test_2_963      | SubGrammar: 2  | 测试编号: 963  | Cross Count: 9337
+  密码: ['shindajioda1', '!', 'legend1', 'glenlegend1994', 'gangsta1', '.']
+
+排名 23: test_8_640      | SubGrammar: 8  | 测试编号: 640  | Cross Count: 9326
+  密码: ['!', 'gangsta1', 'qwertyaun', '.', 'gangsta1', 'qwerty1']
+
+排名 24: test_2_202      | SubGrammar: 2  | 测试编号: 202  | Cross Count: 9205
+  密码: ['jacobs1', 'qwerty1187', 'gangsta1', '.', '.', 'nathan1']
+
+排名 25: test_4_281      | SubGrammar: 4  | 测试编号: 281  | Cross Count: 9126
+  密码: ['goodluck2', 'sake120', 'gangsta1', '!', '.', 'com081994meboingo&com']
+
+排名 26: test_8_488      | SubGrammar: 8  | 测试编号: 488  | Cross Count: 9105
+  密码: ['gangsta1', 'sake120', 'sake120', 'nathan1', '.', 'qwerty1']
+
+排名 27: test_8_988      | SubGrammar: 8  | 测试编号: 988  | Cross Count: 9105
+  密码: ['nathan1', '.', 'qwerty1', 'gangsta1', 'qwerty1', 'sake120']
+
+排名 28: test_8_182      | SubGrammar: 8  | 测试编号: 182  | Cross Count: 9078
+  密码: ['qwerty2', 'qwerty1', '.', '!', 'gangsta1', 'qwerty1']
+
+排名 29: test_2_813      | SubGrammar: 2  | 测试编号: 813  | Cross Count: 9064
+  密码: ['gangsta1', '!', 'gleniauni9', 'jacobs1', 'nathan1', 'qwerty1']
+
+排名 30: test_7_821      | SubGrammar: 7  | 测试编号: 821  | Cross Count: 9064
+  密码: ['goodluck1', '!', 'jacobs1', 'gangsta1', 'goodluck1', 'jacobs9']
+
+排名 31: test_8_938      | SubGrammar: 8  | 测试编号: 938  | Cross Count: 9063
+  密码: ['gangsta3', 'GANGSTA8', 'gangsta1', '.', '!', 'qwerty1']
+
+排名 32: test_7_341      | SubGrammar: 7  | 测试编号: 341  | Cross Count: 9050
+  密码: ['jacobs1', 'goodluck1', 'jacobs7', 'gangsta1', 'jacobs1', '!']
+
+排名 33: test_4_806      | SubGrammar: 4  | 测试编号: 806  | Cross Count: 9047
+  密码: ['glenjacobs051585', 'glen120', 'glenboingo051585', '.', 'gangsta1', '!']
+
+排名 34: test_7_68       | SubGrammar: 7  | 测试编号: 68   | Cross Count: 9031
+  密码: ['!', 'SAKE120', 'gangsta1', 'jacobs1', 'goodluck1', 'jasper1']
+
+排名 35: test_7_631      | SubGrammar: 7  | 测试编号: 631  | Cross Count: 9027
+  密码: ['jasper1', 'jacobs1', 'goodluck1', 'jasper1', '!', 'gangsta1']
+
+排名 36: test_6_228      | SubGrammar: 6  | 测试编号: 228  | Cross Count: 9017
+  密码: ['gangsta2', 'gangsta1', '!', 'glen120', '.', 'gangsta7']
+
+排名 37: test_8_133      | SubGrammar: 8  | 测试编号: 133  | Cross Count: 9016
+  密码: ['nathan1', 'NATHAN1', '.', 'sake120', 'gangsta1', 'qwertyaun']
+
+排名 38: test_8_767      | SubGrammar: 8  | 测试编号: 767  | Cross Count: 9005
+  密码: ['qwerty1', '.', '!', 'qwerty1', 'sake320', 'gangsta1']
+
+排名 39: test_8_254      | SubGrammar: 8  | 测试编号: 254  | Cross Count: 8992
+  密码: ['.', 'qwerty1', 'qwerty1', '!', 'cjamesc.c', 'gangsta1']
+
+排名 40: test_4_25       | SubGrammar: 4  | 测试编号: 25   | Cross Count: 8990
+  密码: ['.', 'sake120', 'goodluck1', 'glenjacobs1994', 'gangsta1', '_']
+
+排名 41: test_4_10       | SubGrammar: 4  | 测试编号: 10   | Cross Count: 8956
+  密码: ['gangsta1', '.', 'sake120', 'gangsta7', '!', 'geo20051585toboingo.geo']
+
+排名 42: test_8_662      | SubGrammar: 8  | 测试编号: 662  | Cross Count: 8948
+  密码: ['.', 'qwerty8', 'gangsta1', '!', 'sake120', 'gangsta6']
+
+排名 43: test_8_618      | SubGrammar: 8  | 测试编号: 618  | Cross Count: 8939
+  密码: ['nathan1', 'gangsta2', 'gangsta1', 'nathan1', 'qwerty1', '.']
+
+排名 44: test_2_702      | SubGrammar: 2  | 测试编号: 702  | Cross Count: 8931
+  密码: ['gangsta1', 'glennathan87', 'nathan1', 'legend1', '!', ' ']
+
+排名 45: test_1_913      | SubGrammar: 1  | 测试编号: 913  | Cross Count: 8929
+  密码: ['jacobs1', '!', '.', 'goodluck1', '!', 'bos20051585anathan.bos']
+
+排名 46: test_8_928      | SubGrammar: 8  | 测试编号: 928  | Cross Count: 8922
+  密码: ['nathan2', 'sake120', '.', 'qwerty7', 'gangsta1', 'nathan1']
+
+排名 47: test_4_945      | SubGrammar: 4  | 测试编号: 945  | Cross Count: 8918
+  密码: ['goodluck1', 'glenboingo051585', 'gangsta1', 'gangsta2', '.', 'glenjacobs1994']
+
+排名 48: test_12_307     | SubGrammar: 12 | 测试编号: 307  | Cross Count: 8906
+  密码: ['jacobs1', 'boingo1', 'nathan1', '!', '!', '.']
+
+排名 49: test_6_245      | SubGrammar: 6  | 测试编号: 245  | Cross Count: 8881
+  密码: ['!', 'qwertyaun', '.', 'geo20051585myboingo.geo', 'sakeboingo051585', 'gangsta1']
+
+排名 50: test_1_935      | SubGrammar: 1  | 测试编号: 935  | Cross Count: 8875
+  密码: ['nathan1', '.', 'boingo1', 'jacobs2', 'qwerty1', 'goodluck1']
+

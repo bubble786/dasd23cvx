@@ -1,0 +1,155 @@
+处理时间: 2025-07-15 15:26:18
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_15_381     | SubGrammar: 15 | 测试编号: 381  | Cross Count: 12188
+  密码: ['OROCHI', 'orochi', 'roses1985', 'qazwsx', 'password', 'azerty']
+
+排名 2 : test_15_818     | SubGrammar: 15 | 测试编号: 818  | Cross Count: 12139
+  密码: ['azerty', 'roses1985', 'qazwsx', 'Orochi', 'orochi', 'password']
+
+排名 3 : test_15_817     | SubGrammar: 15 | 测试编号: 817  | Cross Count: 12114
+  密码: ['qazwsx', 'iiiazerty', 'orochi', 'password', 'roses1985', 'azerty']
+
+排名 4 : test_15_539     | SubGrammar: 15 | 测试编号: 539  | Cross Count: 12112
+  密码: ['orochi', 'roses1985', 'qazwsx', 'password', 'nnnazerty', 'azerty']
+
+排名 5 : test_15_285     | SubGrammar: 15 | 测试编号: 285  | Cross Count: 12106
+  密码: ['azerty', 'qazwsx', 'roses1985', 'orochi', 'password', 'sinksinki']
+
+排名 6 : test_15_145     | SubGrammar: 15 | 测试编号: 145  | Cross Count: 12097
+  密码: ['password', 'azerty', 'roses1985', '-', 'orochi', 'qazwsx']
+
+排名 7 : test_15_193     | SubGrammar: 15 | 测试编号: 193  | Cross Count: 12063
+  密码: ['roses1985', 'orochi', 'azerty', 'roses1985', 'password', 'qazwsx']
+
+排名 8 : test_15_707     | SubGrammar: 15 | 测试编号: 707  | Cross Count: 12063
+  密码: ['roses1985', 'orochi', 'azerty', 'qazwsx', 'password', 'password']
+
+排名 9 : test_15_991     | SubGrammar: 15 | 测试编号: 991  | Cross Count: 11724
+  密码: ['password', 'qazwsx', 'azerty1', 'azerty', 'nnnazerty', 'orochi']
+
+排名 10: test_15_223     | SubGrammar: 15 | 测试编号: 223  | Cross Count: 11682
+  密码: ['azerty', 'qazwsx', 'password', 'azerty1', 'orochi', 'password']
+
+排名 11: test_15_194     | SubGrammar: 15 | 测试编号: 194  | Cross Count: 11633
+  密码: ['orochi', 'azerty', 'miniminin', 'orochi1', 'qazwsx', 'password']
+
+排名 12: test_15_772     | SubGrammar: 15 | 测试编号: 772  | Cross Count: 11631
+  密码: ['orochi', 'azerty', 'password', 'orochi1', 'qazwsx', 'sinksinki']
+
+排名 13: test_15_238     | SubGrammar: 15 | 测试编号: 238  | Cross Count: 11463
+  密码: ['password', 'qazwsx', 'azerty', 'orochi', 'Qazwsx', 'miniminij']
+
+排名 14: test_15_608     | SubGrammar: 15 | 测试编号: 608  | Cross Count: 11443
+  密码: ['miniminida', '!', 'qazwsx', 'password', 'orochi', 'azerty']
+
+排名 15: test_7_561      | SubGrammar: 7  | 测试编号: 561  | Cross Count: 11442
+  密码: ['ficken', 'password', 'azerty1', 'azerty', 'LizUsUs133', 'qazwsx']
+
+排名 16: test_7_574      | SubGrammar: 7  | 测试编号: 574  | Cross Count: 11442
+  密码: ['password', 'azerty', 'azerty1', 'azerty1', 'ficken', 'qazwsx']
+
+排名 17: test_15_252     | SubGrammar: 15 | 测试编号: 252  | Cross Count: 11439
+  密码: ['azerty', 'password', 'qazwsx', 'orochi', 'orochi', 'Qazwsx']
+
+排名 18: test_15_488     | SubGrammar: 15 | 测试编号: 488  | Cross Count: 11439
+  密码: ['orochi', 'password', 'azerty', 'qazwsx', 'orochi', 'Qazwsx']
+
+排名 19: test_15_374     | SubGrammar: 15 | 测试编号: 374  | Cross Count: 11416
+  密码: ['password', 'orochi7', 'qazwsx', 'azerty', 'orochi', 'iiiqazwsx']
+
+排名 20: test_15_307     | SubGrammar: 15 | 测试编号: 307  | Cross Count: 11413
+  密码: ['azerty', 'miniminin', 'qazwsx', 'Password', 'password', 'orochi']
+
+排名 21: test_15_550     | SubGrammar: 15 | 测试编号: 550  | Cross Count: 11374
+  密码: ['azerty', 'miniminin', 'qazwsx', 'iiiazerty', 'password', 'orochi']
+
+排名 22: test_15_122     | SubGrammar: 15 | 测试编号: 122  | Cross Count: 11369
+  密码: ['qazwsx', 'orochi', 'password', 'Password', 'azerty', 'orochi']
+
+排名 23: test_15_1039    | SubGrammar: 15 | 测试编号: 1039 | Cross Count: 11369
+  密码: ['orochi', 'qazwsx', 'password', 'Password', 'password', 'azerty']
+
+排名 24: test_15_492     | SubGrammar: 15 | 测试编号: 492  | Cross Count: 11367
+  密码: ['qazwsx', 'orochi', 'orochi2', 'Roses1985', 'azerty', 'password']
+
+排名 25: test_15_874     | SubGrammar: 15 | 测试编号: 874  | Cross Count: 11357
+  密码: ['azerty', 'qazwsx', 'orochi', 'jjjorochi', 'orochi', 'password']
+
+排名 26: test_15_325     | SubGrammar: 15 | 测试编号: 325  | Cross Count: 11348
+  密码: ['qazwsx', 'orochi', 'iiiorochi', 'password', 'qazwsx', 'azerty']
+
+排名 27: test_15_696     | SubGrammar: 15 | 测试编号: 696  | Cross Count: 11337
+  密码: ['password', 'sinksinkn', 'azerty', 'orochi', 'qazwsx', 'Azerty']
+
+排名 28: test_15_925     | SubGrammar: 15 | 测试编号: 925  | Cross Count: 11322
+  密码: ['azerty6', 'orochi', 'azerty9', 'qazwsx', 'azerty', 'password']
+
+排名 29: test_15_470     | SubGrammar: 15 | 测试编号: 470  | Cross Count: 11317
+  密码: ['qazwsx', 'azerty', '.', 'password', 'azerty', 'orochi']
+
+排名 30: test_15_620     | SubGrammar: 15 | 测试编号: 620  | Cross Count: 11312
+  密码: ['qazwsx', 'miniminii', 'password', 'azerty', 'qazwsx', 'orochi']
+
+排名 31: test_15_507     | SubGrammar: 15 | 测试编号: 507  | Cross Count: 11308
+  密码: ['oroch1', 'password', 'qazwsx', 'orochi', 'azerty9', 'azerty']
+
+排名 32: test_15_278     | SubGrammar: 15 | 测试编号: 278  | Cross Count: 11307
+  密码: ['orochi', 'azerty', 'qazwsx1', 'password', 'qazwsx', 'qazwsx1']
+
+排名 33: test_15_387     | SubGrammar: 15 | 测试编号: 387  | Cross Count: 11304
+  密码: ['azerty9', 'qazwsx', 'orochi', 'azerty', 'az3rty', 'password']
+
+排名 34: test_15_587     | SubGrammar: 15 | 测试编号: 587  | Cross Count: 11304
+  密码: ['password', 'azerty', 'qazwsx', 'orochi', 'qazwsx', 'nnnorochi']
+
+排名 35: test_15_65      | SubGrammar: 15 | 测试编号: 65   | Cross Count: 11298
+  密码: ['orochi', 'qazwsx', 'miniminin', 'yiyiyiqazwsx', 'azerty', 'password']
+
+排名 36: test_15_901     | SubGrammar: 15 | 测试编号: 901  | Cross Count: 11285
+  密码: ['azerty', 'password', 'orochi', 'qazwsx', 'orochi', 'sinksinkj']
+
+排名 37: test_15_893     | SubGrammar: 15 | 测试编号: 893  | Cross Count: 11272
+  密码: ['azerty', 'qazwsx', 'password', 'orochi8', 'azerty', 'orochi']
+
+排名 38: test_15_42      | SubGrammar: 15 | 测试编号: 42   | Cross Count: 11260
+  密码: ['azerty', 'password', 'orochi', 'nnnqazwsx', 'qazwsx', 'orochi']
+
+排名 39: test_15_321     | SubGrammar: 15 | 测试编号: 321  | Cross Count: 11256
+  密码: ['azerty', 'orochi', 'qazwsx', 'sinksinkas', 'password', 'qazwsx']
+
+排名 40: test_15_179     | SubGrammar: 15 | 测试编号: 179  | Cross Count: 11255
+  密码: ['azerty', 'orochi', 'azerty', 'miniminime', 'qazwsx', 'password']
+
+排名 41: test_15_616     | SubGrammar: 15 | 测试编号: 616  | Cross Count: 11253
+  密码: ['azerty', 'qazwsx', 'password', 'qazwsx', 'password', 'orochi']
+
+排名 42: test_7_741      | SubGrammar: 7  | 测试编号: 741  | Cross Count: 11227
+  密码: ['hhhhhficken', 'qazwsx', 'azerty', 'password', 'azerty7', 'ficken']
+
+排名 43: test_1_902      | SubGrammar: 1  | 测试编号: 902  | Cross Count: 11226
+  密码: ['qazwsx', 'roses1985', 'roses1985', 'orochi', 'QAZWSX', 'password']
+
+排名 44: test_12_270     | SubGrammar: 12 | 测试编号: 270  | Cross Count: 11224
+  密码: ['azerty', 'ficken2', 'define', 'orochi', 'roses1985', 'ficken']
+
+排名 45: test_15_368     | SubGrammar: 15 | 测试编号: 368  | Cross Count: 11219
+  密码: ['orochi', 'iiiazerty', 'azerty1', 'roses1985', 'qazwsx', 'azerty']
+
+排名 46: test_12_115     | SubGrammar: 12 | 测试编号: 115  | Cross Count: 11211
+  密码: ['roses1985', 'orochi', 'define', 'azerty', 'define', 'ficken']
+
+排名 47: test_7_881      | SubGrammar: 7  | 测试编号: 881  | Cross Count: 11187
+  密码: ['!', 'password', 'ficken', 'ficken8', 'azerty', 'qazwsx']
+
+排名 48: test_15_301     | SubGrammar: 15 | 测试编号: 301  | Cross Count: 11171
+  密码: ['qazwsx', 'roses1985', 'azerty', 'azerty4', 'password', 'orochi1']
+
+排名 49: test_1_737      | SubGrammar: 1  | 测试编号: 737  | Cross Count: 11141
+  密码: ['dadadaorochi', 'qazwsx', 'roses1985', 'password', 'orochi', 'lizhh13hh']
+
+排名 50: test_1_627      | SubGrammar: 1  | 测试编号: 627  | Cross Count: 11134
+  密码: ['orochi', 'roses1985', 'Qazwsx', 'password', 'qazwsx', 'password']
+

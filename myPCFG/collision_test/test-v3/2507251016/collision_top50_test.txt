@@ -1,0 +1,155 @@
+处理时间: 2025-07-25 10:18:26
+============================================================
+Cross Count最高的前50个测试
+============================================================
+
+排名 1 : test_6_498      | SubGrammar: 6  | 测试编号: 498  | Cross Count: 8128
+  密码: ['SAVA10', 'COCACOLAD', 'cocacolad', 'sava10', 'philipp', 'PHILIPP']
+
+排名 2 : test_6_748      | SubGrammar: 6  | 测试编号: 748  | Cross Count: 7994
+  密码: ['COCACOLALI', 'suckit', 'sava10', 'PHILIPP', 'philipp', 'SAVA10']
+
+排名 3 : test_6_895      | SubGrammar: 6  | 测试编号: 895  | Cross Count: 7978
+  密码: ['PHILIPP', 'SAVA10', 'sava10', 'CocacolaEd', 'philipp', 'buddyppp']
+
+排名 4 : test_6_824      | SubGrammar: 6  | 测试编号: 824  | Cross Count: 7976
+  密码: ['PHILIPP', 'SAVA10', 'sava10', 'COCACOLAIN', 'buddyededed', 'philipp']
+
+排名 5 : test_6_127      | SubGrammar: 6  | 测试编号: 127  | Cross Count: 7941
+  密码: ['SAVA10', 'sava10', 'SUCKIT', 'PHILIPP', 'COCACOLAD', 'philipp']
+
+排名 6 : test_6_975      | SubGrammar: 6  | 测试编号: 975  | Cross Count: 7938
+  密码: ['philipp', 'buddyededed', 'SAVA10', 'sava10', 'ISISISIS', 'PHILIPP']
+
+排名 7 : test_5_332      | SubGrammar: 5  | 测试编号: 332  | Cross Count: 7894
+  密码: ['buddyppp', 'PHILIPP', 'philipp', 'plates', 'sava10', 'matt10']
+
+排名 8 : test_6_478      | SubGrammar: 6  | 测试编号: 478  | Cross Count: 7893
+  密码: ['SAVA10', 'PHILIPP', 'sava10', 'philipp', 'COCACOLAP', 'COCACOLAD']
+
+排名 9 : test_5_828      | SubGrammar: 5  | 测试编号: 828  | Cross Count: 7829
+  密码: ['plates', 'philipp', 'buddyededed', 'sava10', 'matt10', 'PHILIPP']
+
+排名 10: test_6_817      | SubGrammar: 6  | 测试编号: 817  | Cross Count: 7767
+  密码: ['philipp', 'BUDDYINININ', 'cocacolaed', 'PHILIPP', 'SAVA10', 'sava10']
+
+排名 11: test_6_369      | SubGrammar: 6  | 测试编号: 369  | Cross Count: 7715
+  密码: ['philipp', 'COCACOLAIS', 'buddyisisis', 'sava10', 'PHILIPP', 'SAVA10']
+
+排名 12: test_6_315      | SubGrammar: 6  | 测试编号: 315  | Cross Count: 7703
+  密码: ['PHILIPP', 'BUDDYINININ', 'cocacolad', 'suckit', 'sava10', 'philipp']
+
+排名 13: test_6_864      | SubGrammar: 6  | 测试编号: 864  | Cross Count: 7702
+  密码: ['ININININ', 'philipp', 'BUDDYMEMEME', 'SAVA10', 'PHILIPP', 'sava10']
+
+排名 14: test_6_525      | SubGrammar: 6  | 测试编号: 525  | Cross Count: 7699
+  密码: ['philipp', 'PHILIPP', 'SAVA10', 'buddyddd', 'sava10', 'BUDDYMEMEME']
+
+排名 15: test_6_815      | SubGrammar: 6  | 测试编号: 815  | Cross Count: 7693
+  密码: ['sava10', 'BUDDYDDD', 'buddylilili', 'philipp', 'SAVA10', 'PHILIPP']
+
+排名 16: test_6_590      | SubGrammar: 6  | 测试编号: 590  | Cross Count: 7689
+  密码: ['SAVA10', 'PHILIPP', 'philipp', 'SAVA10', 'buddyddd', 'sava10']
+
+排名 17: test_6_982      | SubGrammar: 6  | 测试编号: 982  | Cross Count: 7685
+  密码: ['philipp', 'PHILIPP', 'sava10', 'SAVA10', 'BUDDYISISIS', 'sava10']
+
+排名 18: test_6_682      | SubGrammar: 6  | 测试编号: 682  | Cross Count: 7682
+  密码: ['philipp', 'cocacolad', 'sava10', 'BUDDYINININ', 'PHILIPP', 'buddyppp']
+
+排名 19: test_6_38       | SubGrammar: 6  | 测试编号: 38   | Cross Count: 7676
+  密码: ['SAVA10', 'PHILIPP', 'sava10', 'sava10', 'PHILIPP', 'philipp']
+
+排名 20: test_6_516      | SubGrammar: 6  | 测试编号: 516  | Cross Count: 7564
+  密码: ['buddyppp', 'sava10', 'PHILIPP', 'EDEDEDED', 'philipp', 'suckit']
+
+排名 21: test_6_572      | SubGrammar: 6  | 测试编号: 572  | Cross Count: 7469
+  密码: ['.', 'cocacolad', 'sava10', 'philipp', 'SUCKIT', 'PHILIPP']
+
+排名 22: test_6_470      | SubGrammar: 6  | 测试编号: 470  | Cross Count: 7427
+  密码: ['philipp', 'DDDD', 'COCACOLAD', 'isisisis', 'PHILIPP', 'sava10']
+
+排名 23: test_6_159      | SubGrammar: 6  | 测试编号: 159  | Cross Count: 7374
+  密码: ['philipp', 'SUCKIT', 'sava10', 'suckit', 'PHILIPP', 'COCACOLASC']
+
+排名 24: test_6_195      | SubGrammar: 6  | 测试编号: 195  | Cross Count: 7355
+  密码: ['philipp', 'PHILIPP', 'sava10', 'suckit', 'PPPP', 'SUCKIT']
+
+排名 25: test_6_212      | SubGrammar: 6  | 测试编号: 212  | Cross Count: 7349
+  密码: ['suckit', 'PHILIPP', 'SUCKIT', 'sava10', 'philipp', 'SUCKIT']
+
+排名 26: test_6_417      | SubGrammar: 6  | 测试编号: 417  | Cross Count: 7349
+  密码: ['philipp', 'sava10', 'suckit', 'SUCKIT', 'PHILIPP', 'suckit']
+
+排名 27: test_6_1007     | SubGrammar: 6  | 测试编号: 1007 | Cross Count: 7349
+  密码: ['sava10', 'philipp', 'SUCKIT', 'sava10', 'suckit', 'PHILIPP']
+
+排名 28: test_6_642      | SubGrammar: 6  | 测试编号: 642  | Cross Count: 7342
+  密码: ['#', 'sava10', 'PHILIPP', 'suckit', 'philipp', 'PHILIPP']
+
+排名 29: test_6_529      | SubGrammar: 6  | 测试编号: 529  | Cross Count: 7314
+  密码: ['sava10', 'philipp', 'PHILIPP', 'LILILILI', 'suckit', 'suckit']
+
+排名 30: test_6_597      | SubGrammar: 6  | 测试编号: 597  | Cross Count: 7310
+  密码: ['sava10', 'cocacolasc', 'PHILIPP', 'buddyppp', 'philipp', 'BUDDYSCSCSC']
+
+排名 31: test_5_668      | SubGrammar: 5  | 测试编号: 668  | Cross Count: 7303
+  密码: ['PHILIPP', 'sava10', 'philipp', '2011952', 'buddyasasas', 'buddyppp']
+
+排名 32: test_6_427      | SubGrammar: 6  | 测试编号: 427  | Cross Count: 7302
+  密码: ['philipp', 'cocacolaed', 'suckit', 'sava10', 'suckit', 'PHILIPP']
+
+排名 33: test_6_929      | SubGrammar: 6  | 测试编号: 929  | Cross Count: 7301
+  密码: ['SAVA10', 'PHILIPP', 'cocacolap', 'ph1l1pp', 'philipp', 'buddyininin']
+
+排名 34: test_6_954      | SubGrammar: 6  | 测试编号: 954  | Cross Count: 7300
+  密码: ['COCACOLAP', 'LILILILI', 'sava10', 'philipp', 'PHILIPP', 'buddyppp']
+
+排名 35: test_6_809      | SubGrammar: 6  | 测试编号: 809  | Cross Count: 7295
+  密码: ['suckit', 'PHILIPP', 'sava10', 'sava10', 'COCACOLAP', 'philipp']
+
+排名 36: test_6_930      | SubGrammar: 6  | 测试编号: 930  | Cross Count: 7266
+  密码: ['buddyisisis', 'ININININ', 'sava10', 'PHILIPP', 'COCACOLAD', 'philipp']
+
+排名 37: test_5_67       | SubGrammar: 5  | 测试编号: 67   | Cross Count: 7249
+  密码: ['matt88188', 'buddyaaa', 'PHILIPP', 'sava2011956201195', 'philipp', 'sava10']
+
+排名 38: test_6_145      | SubGrammar: 6  | 测试编号: 145  | Cross Count: 7248
+  密码: ['scscscsc', 'philipp', 'PHILIPP', 'sava10', 'sava10', 'SUCKIT']
+
+排名 39: test_6_382      | SubGrammar: 6  | 测试编号: 382  | Cross Count: 7205
+  密码: ['PHILIPP', 'philipp', 'sava10', 'lililili', 'BUDDYPPP', 'PHILIPP']
+
+排名 40: test_6_30       | SubGrammar: 6  | 测试编号: 30   | Cross Count: 7195
+  密码: ['sava10', 'sava10', 'buddyisisis', 'PHILIPP', 'philipp', '!']
+
+排名 41: test_5_151      | SubGrammar: 5  | 测试编号: 151  | Cross Count: 7174
+  密码: ['951', 'sava10', 'philipp', '956', 'matt10', 'PHILIPP']
+
+排名 42: test_6_134      | SubGrammar: 6  | 测试编号: 134  | Cross Count: 7161
+  密码: ['PHILIPP', 'philipp', 'sava10', 'PHILIPP', 'scscscsc', 'PHILIPP']
+
+排名 43: test_6_990      | SubGrammar: 6  | 测试编号: 990  | Cross Count: 7140
+  密码: ['cocacolain', 'philipp', 'SUCKIT', 'sava10', 'PHILIPP', 'philipp']
+
+排名 44: test_6_691      | SubGrammar: 6  | 测试编号: 691  | Cross Count: 7124
+  密码: ['COCACOLAIS', 'PHILIPP', 'COCACOLAIN', 'sava10', 'philipp', 'buddyisisis']
+
+排名 45: test_5_999      | SubGrammar: 5  | 测试编号: 999  | Cross Count: 7118
+  密码: ['plates', 'plates', 'sava88888', 'philipp', 'sava10', 'ph1l1pp']
+
+排名 46: test_5_632      | SubGrammar: 5  | 测试编号: 632  | Cross Count: 7112
+  密码: ['2011721', 'matt10', 'buddyppp', 'SAVA10', 'sava10', 'philipp']
+
+排名 47: test_6_987      | SubGrammar: 6  | 测试编号: 987  | Cross Count: 7091
+  密码: ['COCACOLAED', 'sava10', 'SUCKIT', 'cocacolais', 'philipp', 'PHILIPP']
+
+排名 48: test_6_785      | SubGrammar: 6  | 测试编号: 785  | Cross Count: 7089
+  密码: ['philipp', 'SUCKIT', 'sava10', 'PHILIPP', 'SUCKIT', 'cocacolame']
+
+排名 49: test_6_124      | SubGrammar: 6  | 测试编号: 124  | Cross Count: 7082
+  密码: ['PHILIPP', 'cocacolasc', 'cocacolain', 'philipp', 'sava10', 'sava10']
+
+排名 50: test_6_328      | SubGrammar: 6  | 测试编号: 328  | Cross Count: 7082
+  密码: ['BUDDYMEMEME', 'philipp', 'PHILIPP', 'sava10', 'inininin', 'BUDDYSCSCSC']
+
