@@ -1,0 +1,32 @@
+# 训练模型
+*.pack
+MSPM/SPM/trained/
+
+# 序列化数据
+*.pkl
+storagefile.pkl
+
+# 大数据集
+data/mpw_testset/rockyou_withcount.txt
+attack/input_dataset/rockyou_withcount.txt
+myPCFG/data/rockyou-withcount.txt
+
+# 重复的压缩文件
+PCFG/data/trainsets/rockyou-withcount.txt.bz2
+PCFG/data/rockyou-withcount.txt.bz2
+myPCFG/data/rockyou-withcount.txt.bz2
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 结果和日志
+attack/results/
+*.log
+screenlog.*
+
+# 临时文件
+*.tmp
+*.swp
+*~
